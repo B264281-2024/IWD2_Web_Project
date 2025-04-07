@@ -78,8 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
 
-                analysisResultsDiv.innerHTML = alignmentHtml
-                analysisResultsDiv.innerHTML = conservationHtml;
+                analysisResultsDiv.innerHTML = alignmentHtml + conservationHtml;
             } else {
                 throw new Error(analysisData.error || "Analysis failed");
             }

@@ -1,8 +1,9 @@
 <?php
-require 'config.php'; // Include the PDO connection script
+require 'config.php'; //establish PDO connection
 
 try {
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    //call all data from example_data table
     $stmt = $pdo->query("SELECT header, sequence FROM example_data");
     $fastaData = "";
 

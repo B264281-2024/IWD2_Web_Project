@@ -2,7 +2,7 @@
 $db_hostname = '127.0.0.1';
 $db_database = 's2760053_ICA';
 $db_username = 's2760053';
-$db_password = 'Paramount_666';
+$db_password = 'y_uFL0*38|~e';
 
 try {
     $pdo = new PDO("mysql:host=$db_hostname;dbname=$db_database", $db_username, $db_password);

@@ -15,18 +15,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['forename']) && isset(
     $_SESSION['forename'] = $_POST['forename'];
     $_SESSION['surname'] = $_POST['surname'];
 
-    // Insert data into the database
-    $stmt = $pdo->prepare("INSERT INTO users (forename, surname) VALUES (:forename, :surname)");
+    // Step 1: Check if user already exists
+    $stmt = $pdo->prepare("SELECT id FROM users WHERE forename = :forename AND surname = :surname");
     $stmt->bindParam(':forename', $_SESSION['forename']);
     $stmt->bindParam(':surname', $_SESSION['surname']);
     $stmt->execute();
+    $existingUser = $stmt->fetch(PDO::FETCH_ASSOC);
 
-    // Retrieve the last inserted ID
-    $userId = $pdo->lastInsertId();
-    if ($userId) {
-        $_SESSION['user_id'] = $userId; // Store user ID in session
+    if ($existingUser) {
+        // User exists — reuse their ID
+        $_SESSION['user_id'] = $existingUser['id'];
     } else {
-        die("Failed to retrieve user ID.");
+        // Insert new user
+        $stmt = $pdo->prepare("INSERT INTO users (forename, surname) VALUES (:forename, :surname)");
+        $stmt->bindParam(':forename', $_SESSION['forename']);
+        $stmt->bindParam(':surname', $_SESSION['surname']);
+        $stmt->execute();
+
+        // Get new user ID
+        $_SESSION['user_id'] = $pdo->lastInsertId();
     }
 
     header('Location: index.html');

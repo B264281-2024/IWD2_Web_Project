@@ -29,11 +29,7 @@ try {
     
     fclose($fileHandle);
 
-    // Step 3: Define output file paths for Clustal Omega
-    $alignmentFile = '/tmp/aligned_sequences.aln';
-    $clustalCommand = "clustalo -i {$inputFile} -o {$alignmentFile} --force --outfmt=clustal";
-
-    // Step 4: Generate alignment file
+    // Step 3: Generate alignment file
     $alignmentFile = '/tmp/aligned_sequences.aln';
     $clustalCommand = "clustalo -i {$inputFile} -o {$alignmentFile} --force --outfmt=clustal";
     exec($clustalCommand, $outputClustal, $returnClustal);
@@ -42,21 +38,22 @@ try {
         throw new Exception('Failed to run Clustal Omega alignment.');
     }
 
-    // Step 5: Run plotcon analysis and capture output
-    $outputFile = '/images/plotcon_' . uniqid() . '.png';
+    // Step 4: Run plotcon analysis and capture output
     $plotconWindowSize = 4;
-    $plotconCommand = "plotcon -sequence {$alignmentFile} -winsize {$plotconWindowSize} -graph png -goutfile \"{$outputFile}\" 2>&1"; // 2>&1 captures error output
+    $plotconCommand = "plotcon -sequence {$alignmentFile} -winsize {$plotconWindowSize} -graph png -gdirectory images/ 2>&1"; // 2>&1 captures error output
     exec($plotconCommand, $plotconOutput, $plotconReturn);
     
     if ($plotconReturn !== 0) {
         throw new Exception('Plotcon analysis failed: ' . implode("\n", $plotconOutput));
     }
 
-    // Step 6: Return both alignment and plotcon results
+
+    // Step 5: Return both alignment and plotcon results
     echo json_encode([
         'success' => true,
         'alignment' => file_get_contents($alignmentFile),
-        'plotcon_image' => basename($outputFile, ".1.png")
+        'alignment_url' => '/tmp/aligned_sequences.aln', // URL to the generated alignment file
+        'plotcon_image' => '/images/plotcon.1.png'
     ]);
 
 } catch (Exception $e) {

@@ -2,19 +2,20 @@
 header('Content-Type: application/json');
 session_start();
 
-require_once 'config.php';
+require_once 'config.php'; #establish PDO connection
 
 try {
-    // Ensure user is logged in
+    //ensure that user is logged on
     if (!isset($_SESSION['user_id'])) {
         throw new Exception('User not logged in.');
     }
 
-    // Get input data
+    //pull query data from the the PHP input
     $data = json_decode(file_get_contents('php://input'), true);
     $taxonomicGroup = $data['taxonomic_group'] ?? '';
     $proteinFamily = $data['protein_family'] ?? '';
 
+    //both field smust be filled in
     if (empty($taxonomicGroup) || empty($proteinFamily)) {
         throw new Exception('Both taxonomic group and protein family are required.');
     }
@@ -61,19 +62,17 @@ try {
         throw new Exception('No FASTA data retrieved from NCBI.');
     }
 
-    // Parse FASTA and save to DB
+    //parse the fasta files for saving them to SQL table
     $sequences = [];
-    
-    // Split FASTA entries by "\n>"
     $fastaEntries = explode("\n>", trim($fastaResponse));
     
     foreach ($fastaEntries as $entry) {
-        // Separate header and sequence
+        //separate header and sequence
         $lines = explode("\n", trim($entry));
-        $header = str_replace('>', '', array_shift($lines)); // Remove leading ">"
-        $sequence = implode('', array_map('trim', $lines)); // Concatenate multi-line sequences
+        $header = str_replace('>', '', array_shift($lines));
+        $sequence = implode('', array_map('trim', $lines));
 
-        // Save to database
+        //insert into the database with user_id set as current login
         try {
             $stmt = $pdo->prepare("INSERT INTO search_queries (user_id, protein_family, taxonomic_group, fasta_header, fasta_sequence) VALUES (:user_id, :protein_family, :taxonomic_group, :header, :sequence)");
             $stmt->execute([
@@ -84,17 +83,17 @@ try {
                 ':sequence' => $sequence
             ]);
 
-            // Collect data for immediate response
+            //the same data is formatted for display
             $sequences[] = [
                 'header' => $header,
-                'sequence' => wordwrap($sequence, 80, "\n", true) // Format for display
+                'sequence' => wordwrap($sequence, 80, "\n", true)
             ];
         } catch (PDOException $e) {
             throw new Exception("Database error: " . $e->getMessage());
         }
     }
 
-    // Return parsed sequences for direct display
+    //use JSON to display sequence data on the screen
     echo json_encode([
         'success' => true,
         'sequences' => $sequences
