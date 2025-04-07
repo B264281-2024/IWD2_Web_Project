@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statement of Credits</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      /* Only applies to this page */
+      .content ul, 
+      .content ol {
+        margin-left: 20px;
+        padding-left: 20px;
+        list-style-type: disc;
+      }
+
+      .content ol {
+        list-style-type: decimal;
+      }
+
+      .content li {
+        margin-bottom: 6px;
+      }
+    </style>
+</head>
+<body>
+	<nav class="navbar">
+		<div class="navbar__container">
+			<a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
+      <ul class="navbar__menu">
+        <li class="navbar__item">
+          <a href="example.html" class="navbar__links">Example Data</a>
+        </li>
+        <li class="navbar__item">
+          <a href="help.html" class="navbar__links">Help</a>
+        </li>
+        <li class="navbar__item">
+          <a href="credits.html" class="navbar__links">Statement of Credits</a>
+        </li>
+        <li class="navbar__btn">
+          <a href="/" class="button">Account</a>
+        </li>
+      </ul>
+		</div>
+   </nav>
+
+    <div class="content">
+        
+      <h2>Statement of Credits</h2>
+
+      <h3>Source of Code</h3>
+      <ul>
+        <li>
+          Login system based off of
+          <a href="https://dzone.com/articles/create-a-login-system-using-php">this DZone article</a>
+        </li>
+        <li>
+          Home page design, navigation bar, and CSS code inspired by
+          <a href="https://www.youtube.com/watch?v=FazgJVnrVuI&t=4468s&ab_channel=BrianDesign">Brian Design's YouTube video</a>
+        </li>
+      </ul>
+
+      <h3>Generative AI</h3>
+      <ul>
+        <li>Breakdown of the assignment objectives and planning an outline (ChatGPT)</li>
+        <li>Updated settings for iframe embedding that allow better on-screen visualisation</li>
+        <li>Fixing code for running the motif analysis on all fasta sequences, not just the first sequence</li>
+        <li>
+          Error handling and code fixes (ChatGPT):
+          <ol>
+            <li>Login data not being saved to session and SQL correctly</li>
+            <li>Navigation bar links being displayed in the wrong format</li>
+            <li>Updates beingmbedding using iframe
+          </ol>
+        </li>
+      </ul>
+
+      <h3>Honorable Mentions</h3>
+      <p>
+        Dani Krossing's YouTube Channel:
+        <a href="https://www.youtube.com/@Dani_Krossing">https://www.youtube.com/@Dani_Krossing</a>
+      </p>
+    </div>
+</body>
+</html>

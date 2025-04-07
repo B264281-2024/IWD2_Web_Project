@@ -1,0 +1,1196 @@
+Sequence ID,Start,End,Motif
+>XP_072197995.1 glucose-6-phosphatase 2 isoform X2 [Excalfactoria chinensis],,,None found
+>XP_072197994.1 glucose-6-phosphatase 2 isoform X1 [Excalfactoria chinensis],,,None found
+>XP_072212784.1 glucose-6-phosphatase catalytic subunit 1 [Excalfactoria chinensis],,,None found
+>XP_071897036.1 glucose-6-phosphatase 2 isoform X2 [Anas platyrhynchos],,,None found
+>XP_071884849.1 glucose-6-phosphatase 3 [Anas platyrhynchos],,,None found
+>XP_071654328.1 glucose-6-phosphatase 3 [Patagioenas fasciata],211,221,THIOL_PROTEASE_HIS
+>XP_071654328.1 glucose-6-phosphatase 3 [Patagioenas fasciata],,,None found
+>XP_071654327.1 glucose-6-phosphatase 3 [Patagioenas fasciata],211,221,THIOL_PROTEASE_HIS
+>XP_071654327.1 glucose-6-phosphatase 3 [Patagioenas fasciata],,,None found
+>XP_065712012.2 glucose-6-phosphatase catalytic subunit 1 [Patagioenas fasciata],139,142,AMIDATION
+>XP_065712012.2 glucose-6-phosphatase catalytic subunit 1 [Patagioenas fasciata],,,None found
+>XP_071603542.1 glucose-6-phosphatase 2 isoform X2 [Heliangelus exortis],,,None found
+>XP_071603541.1 glucose-6-phosphatase 2 isoform X1 [Heliangelus exortis],,,None found
+>XP_071584795.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Heliangelus exortis],139,142,AMIDATION
+>XP_071584795.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Heliangelus exortis],,,None found
+>XP_071584794.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Heliangelus exortis],139,142,AMIDATION
+>XP_071584794.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Heliangelus exortis],,,None found
+>XP_071418251.1 glucose-6-phosphatase 2 [Pithys albifrons albifrons],,,None found
+>XP_071433748.1 glucose-6-phosphatase catalytic subunit 1 [Pithys albifrons albifrons],139,142,AMIDATION
+>XP_071433748.1 glucose-6-phosphatase catalytic subunit 1 [Pithys albifrons albifrons],,,None found
+>XP_071433677.1 glucose-6-phosphatase 3 isoform X2 [Pithys albifrons albifrons],,,None found
+>XP_071433676.1 glucose-6-phosphatase 3 isoform X1 [Pithys albifrons albifrons],,,None found
+>XP_071307265.1 glucose-6-phosphatase catalytic subunit 1 [Agelaius tricolor],,,None found
+>XP_071307049.1 glucose-6-phosphatase 3 isoform X2 [Agelaius tricolor],,,None found
+>XP_071307048.1 glucose-6-phosphatase 3 isoform X1 [Agelaius tricolor],,,None found
+>XP_071291063.1 glucose-6-phosphatase 2 [Agelaius tricolor],,,None found
+>XP_069717900.1 glucose-6-phosphatase 2 [Phaenicophaeus curvirostris],,,None found
+>XP_069733417.1 glucose-6-phosphatase 3 [Phaenicophaeus curvirostris],,,None found
+>XP_069733174.1 glucose-6-phosphatase catalytic subunit 1 [Phaenicophaeus curvirostris],139,142,AMIDATION
+>XP_069733174.1 glucose-6-phosphatase catalytic subunit 1 [Phaenicophaeus curvirostris],,,None found
+>XP_069642690.1 glucose-6-phosphatase 3 [Haliaeetus albicilla],,,None found
+>XP_069642348.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Haliaeetus albicilla],139,142,AMIDATION
+>XP_069642348.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Haliaeetus albicilla],,,None found
+>XP_069642347.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Haliaeetus albicilla],139,142,AMIDATION
+>XP_069642347.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Haliaeetus albicilla],,,None found
+>XP_069637418.1 glucose-6-phosphatase 2 isoform X2 [Haliaeetus albicilla],,,None found
+>XP_009924582.1 glucose-6-phosphatase 2 isoform X1 [Haliaeetus albicilla],,,None found
+>XP_030908082.1 glucose-6-phosphatase 2 isoform X1 [Melopsittacus undulatus],,,None found
+>XP_030908081.1 glucose-6-phosphatase 2 isoform X3 [Melopsittacus undulatus],,,None found
+>XP_030908080.1 glucose-6-phosphatase 2 isoform X3 [Melopsittacus undulatus],,,None found
+>XP_005139910.2 glucose-6-phosphatase catalytic subunit 1 [Melopsittacus undulatus],139,142,AMIDATION
+>XP_005139910.2 glucose-6-phosphatase catalytic subunit 1 [Melopsittacus undulatus],,,None found
+>XP_005152833.1 glucose-6-phosphatase 2 isoform X2 [Melopsittacus undulatus],,,None found
+>KAL2302319.1 hypothetical protein Nmel_009743 [Mimus melanotis],,,None found
+>XP_068876848.1 glucose-6-phosphatase 2 isoform X3 [Aphelocoma coerulescens],,,None found
+>XP_068876847.1 glucose-6-phosphatase 2 isoform X2 [Aphelocoma coerulescens],,,None found
+>XP_068876846.1 glucose-6-phosphatase 2 isoform X1 [Aphelocoma coerulescens],,,None found
+>XP_068852892.1 glucose-6-phosphatase catalytic subunit 1 [Aphelocoma coerulescens],139,142,AMIDATION
+>XP_068852892.1 glucose-6-phosphatase catalytic subunit 1 [Aphelocoma coerulescens],,,None found
+>XP_068852467.1 glucose-6-phosphatase 3 isoform X2 [Aphelocoma coerulescens],,,None found
+>XP_068852466.1 glucose-6-phosphatase 3 isoform X1 [Aphelocoma coerulescens],,,None found
+>XP_068804785.1 glucose-6-phosphatase 2 [Struthio camelus],33,35,RGD
+>XP_068804785.1 glucose-6-phosphatase 2 [Struthio camelus],,,None found
+>XP_068775601.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775599.1 glucose-6-phosphatase 3 isoform X2 [Struthio camelus],,,None found
+>XP_068775598.1 glucose-6-phosphatase 3 isoform X2 [Struthio camelus],,,None found
+>XP_068775597.1 glucose-6-phosphatase 3 isoform X2 [Struthio camelus],,,None found
+>XP_068775596.1 glucose-6-phosphatase 3 isoform X2 [Struthio camelus],,,None found
+>XP_068775595.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775594.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775593.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775592.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775591.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775590.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775588.1 glucose-6-phosphatase 3 isoform X1 [Struthio camelus],,,None found
+>XP_068775122.1 glucose-6-phosphatase catalytic subunit 1 [Struthio camelus],353,356,AMIDATION
+>XP_068775122.1 glucose-6-phosphatase catalytic subunit 1 [Struthio camelus],,,None found
+>XP_031362869.1 glucose-6-phosphatase 3 [Lonchura striata],,,None found
+>XP_021390442.1 glucose-6-phosphatase 2 isoform X3 [Lonchura striata],,,None found
+>XP_021390439.1 glucose-6-phosphatase 2 isoform X2 [Lonchura striata],,,None found
+>XP_021390438.1 glucose-6-phosphatase 2 isoform X2 [Lonchura striata],,,None found
+>XP_021390437.1 glucose-6-phosphatase 2 isoform X1 [Lonchura striata],,,None found
+>XP_021388517.1 glucose-6-phosphatase catalytic subunit 1 [Lonchura striata],,,None found
+>XP_068542888.1 glucose-6-phosphatase 2 isoform X3 [Anas acuta],,,None found
+>XP_068542887.1 glucose-6-phosphatase 2 isoform X2 [Anas acuta],,,None found
+>XP_068542886.1 glucose-6-phosphatase 2 isoform X1 [Anas acuta],,,None found
+>XP_068542885.1 glucose-6-phosphatase 2 isoform X1 [Anas acuta],,,None found
+>XP_068542884.1 glucose-6-phosphatase 2 isoform X1 [Anas acuta],,,None found
+>XP_068516944.1 glucose-6-phosphatase catalytic subunit 1 [Anas acuta],139,142,AMIDATION
+>XP_068516944.1 glucose-6-phosphatase catalytic subunit 1 [Anas acuta],,,None found
+>XP_068263951.1 glucose-6-phosphatase 2 isoform X2 [Nyctibius grandis],7,10,AMIDATION
+>XP_068263951.1 glucose-6-phosphatase 2 isoform X2 [Nyctibius grandis],174,190,TNF_1
+>XP_068263951.1 glucose-6-phosphatase 2 isoform X2 [Nyctibius grandis],,,None found
+>XP_068263950.1 glucose-6-phosphatase 2 isoform X1 [Nyctibius grandis],214,230,TNF_1
+>XP_068263950.1 glucose-6-phosphatase 2 isoform X1 [Nyctibius grandis],,,None found
+>XP_068274984.1 glucose-6-phosphatase 3-like isoform X2 [Nyctibius grandis],,,None found
+>XP_068274983.1 glucose-6-phosphatase 3-like isoform X1 [Nyctibius grandis],,,None found
+>XP_068274982.1 glucose-6-phosphatase 3-like isoform X1 [Nyctibius grandis],,,None found
+>XP_068274946.1 glucose-6-phosphatase 3-like [Nyctibius grandis],,,None found
+>XP_068274591.1 glucose-6-phosphatase catalytic subunit 1 [Nyctibius grandis],139,142,AMIDATION
+>XP_068274591.1 glucose-6-phosphatase catalytic subunit 1 [Nyctibius grandis],,,None found
+>XP_068051908.1 glucose-6-phosphatase 2 isoform X11 [Anomalospiza imberbis],,,None found
+>XP_068051907.1 glucose-6-phosphatase 2 isoform X10 [Anomalospiza imberbis],,,None found
+>XP_068051906.1 glucose-6-phosphatase 2 isoform X9 [Anomalospiza imberbis],,,None found
+>XP_068051905.1 glucose-6-phosphatase 2 isoform X8 [Anomalospiza imberbis],,,None found
+>XP_068051904.1 glucose-6-phosphatase 2 isoform X8 [Anomalospiza imberbis],,,None found
+>XP_068051903.1 glucose-6-phosphatase 2 isoform X7 [Anomalospiza imberbis],,,None found
+>XP_068051902.1 glucose-6-phosphatase 2 isoform X6 [Anomalospiza imberbis],,,None found
+>XP_068051901.1 glucose-6-phosphatase 2 isoform X5 [Anomalospiza imberbis],,,None found
+>XP_068051900.1 glucose-6-phosphatase 2 isoform X4 [Anomalospiza imberbis],,,None found
+>XP_068051899.1 glucose-6-phosphatase 2 isoform X3 [Anomalospiza imberbis],,,None found
+>XP_068051898.1 glucose-6-phosphatase 2 isoform X2 [Anomalospiza imberbis],,,None found
+>XP_068051897.1 glucose-6-phosphatase 2 isoform X1 [Anomalospiza imberbis],,,None found
+>XP_068068072.1 glucose-6-phosphatase 3 [Anomalospiza imberbis],,,None found
+>XP_068068063.1 glucose-6-phosphatase catalytic subunit 1 [Anomalospiza imberbis],,,None found
+>XP_068023115.1 glucose-6-phosphatase catalytic subunit 1 [Melanerpes formicivorus],139,142,AMIDATION
+>XP_068023115.1 glucose-6-phosphatase catalytic subunit 1 [Melanerpes formicivorus],,,None found
+>XP_067994787.1 glucose-6-phosphatase 2 isoform X3 [Melanerpes formicivorus],214,230,TNF_1
+>XP_067994787.1 glucose-6-phosphatase 2 isoform X3 [Melanerpes formicivorus],,,None found
+>XP_067994786.1 glucose-6-phosphatase 2 isoform X2 [Melanerpes formicivorus],158,174,TNF_1
+>XP_067994786.1 glucose-6-phosphatase 2 isoform X2 [Melanerpes formicivorus],,,None found
+>XP_067994784.1 glucose-6-phosphatase 2 isoform X2 [Melanerpes formicivorus],158,174,TNF_1
+>XP_067994784.1 glucose-6-phosphatase 2 isoform X2 [Melanerpes formicivorus],,,None found
+>XP_067994783.1 glucose-6-phosphatase 2 isoform X1 [Melanerpes formicivorus],214,230,TNF_1
+>XP_067994783.1 glucose-6-phosphatase 2 isoform X1 [Melanerpes formicivorus],,,None found
+>XP_067994782.1 glucose-6-phosphatase 2 isoform X1 [Melanerpes formicivorus],214,230,TNF_1
+>XP_067994782.1 glucose-6-phosphatase 2 isoform X1 [Melanerpes formicivorus],,,None found
+>GAB0191554.1 glucose-6-phosphatase 2 [Grus japonensis],,,None found
+>GAB0199138.1 glucose-6-phosphatase catalytic subunit 1 [Grus japonensis],139,142,AMIDATION
+>GAB0199138.1 glucose-6-phosphatase catalytic subunit 1 [Grus japonensis],,,None found
+>GAB0198952.1 glucose-6-phosphatase 3 [Grus japonensis],,,None found
+>XP_013816219.2 glucose-6-phosphatase 2 [Apteryx mantelli],,,None found
+>XP_067168026.1 glucose-6-phosphatase catalytic subunit 1 [Apteryx mantelli],351,354,AMIDATION
+>XP_067168026.1 glucose-6-phosphatase catalytic subunit 1 [Apteryx mantelli],,,None found
+">XP_067167892.1 glucose-6-phosphatase 3, partial [Apteryx mantelli]",,,None found
+>XP_013026898.2 glucose-6-phosphatase 2 isoform X2 [Anser cygnoides],,,None found
+>XP_066855654.1 glucose-6-phosphatase 2 isoform X1 [Anser cygnoides],,,None found
+>XP_047907799.2 glucose-6-phosphatase catalytic subunit 1 [Anser cygnoides],139,142,AMIDATION
+>XP_047907799.2 glucose-6-phosphatase catalytic subunit 1 [Anser cygnoides],,,None found
+>XP_066837567.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Anser cygnoides],,,None found
+>XP_066409913.1 glucose-6-phosphatase 2 isoform X2 [Molothrus aeneus],,,None found
+>XP_066409912.1 glucose-6-phosphatase 2 isoform X1 [Molothrus aeneus],,,None found
+>XP_066423259.1 glucose-6-phosphatase 3 [Molothrus aeneus],,,None found
+>XP_066423092.1 glucose-6-phosphatase catalytic subunit 1 [Molothrus aeneus],,,None found
+>XP_066179419.1 glucose-6-phosphatase 2 [Sylvia atricapilla],,,None found
+>XP_066193065.1 glucose-6-phosphatase 3 [Sylvia atricapilla],,,None found
+>XP_066192882.1 glucose-6-phosphatase catalytic subunit 1 [Sylvia atricapilla],,,None found
+>XP_066061379.1 glucose-6-phosphatase catalytic subunit 1 [Chamaea fasciata],,,None found
+>XP_066061009.1 glucose-6-phosphatase 3 [Chamaea fasciata],,,None found
+>XP_066045355.1 glucose-6-phosphatase 2 [Chamaea fasciata],,,None found
+>XP_065696785.1 glucose-6-phosphatase 2 isoform X2 [Patagioenas fasciata],,,None found
+>XP_065696784.1 glucose-6-phosphatase 2 isoform X1 [Patagioenas fasciata],,,None found
+>XP_065606562.1 glucose-6-phosphatase 2 [Cyrtonyx montezumae],,,None found
+>XP_065605175.1 glucose-6-phosphatase catalytic subunit 1 [Cyrtonyx montezumae],187,190,AMIDATION
+>XP_065605175.1 glucose-6-phosphatase catalytic subunit 1 [Cyrtonyx montezumae],41,44,AMIDATION
+>XP_065605175.1 glucose-6-phosphatase catalytic subunit 1 [Cyrtonyx montezumae],,,None found
+>XP_065526544.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526543.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526542.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526540.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526539.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526538.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526537.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526536.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526535.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526534.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526533.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526532.1 glucose-6-phosphatase 2 isoform X2 [Lathamus discolor],,,None found
+>XP_065526531.1 glucose-6-phosphatase 2 isoform X1 [Lathamus discolor],,,None found
+>XP_065555470.1 glucose-6-phosphatase 3 [Lathamus discolor],,,None found
+>XP_065555469.1 glucose-6-phosphatase 3 [Lathamus discolor],,,None found
+>XP_065555467.1 glucose-6-phosphatase 3 [Lathamus discolor],,,None found
+>XP_065555466.1 glucose-6-phosphatase 3 [Lathamus discolor],,,None found
+>XP_065555465.1 glucose-6-phosphatase 3 [Lathamus discolor],,,None found
+>XP_065555037.1 glucose-6-phosphatase catalytic subunit 1 [Lathamus discolor],139,142,AMIDATION
+>XP_065555037.1 glucose-6-phosphatase catalytic subunit 1 [Lathamus discolor],,,None found
+>XP_065494134.1 glucose-6-phosphatase 2 isoform X2 [Caloenas nicobarica],,,None found
+>XP_065494133.1 glucose-6-phosphatase 2 isoform X1 [Caloenas nicobarica],,,None found
+>XP_065507259.1 glucose-6-phosphatase catalytic subunit 1 [Caloenas nicobarica],353,356,AMIDATION
+>XP_065507259.1 glucose-6-phosphatase catalytic subunit 1 [Caloenas nicobarica],139,142,AMIDATION
+>XP_065507259.1 glucose-6-phosphatase catalytic subunit 1 [Caloenas nicobarica],,,None found
+>XP_065507052.1 glucose-6-phosphatase 3 isoform X2 [Caloenas nicobarica],,,None found
+>XP_065507051.1 glucose-6-phosphatase 3 isoform X1 [Caloenas nicobarica],303,324,LEUCINE_ZIPPER
+>XP_065507051.1 glucose-6-phosphatase 3 isoform X1 [Caloenas nicobarica],,,None found
+>XP_065507050.1 glucose-6-phosphatase 3 isoform X1 [Caloenas nicobarica],303,324,LEUCINE_ZIPPER
+>XP_065507050.1 glucose-6-phosphatase 3 isoform X1 [Caloenas nicobarica],,,None found
+>XP_064925836.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_064925835.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_064925834.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_064925833.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_064925832.1 glucose-6-phosphatase 2 isoform X3 [Columba livia],,,None found
+>XP_021147137.2 glucose-6-phosphatase 2 isoform X1 [Columba livia],,,None found
+>XP_064895655.1 glucose-6-phosphatase 3 [Columba livia],,,None found
+>XP_005513636.3 glucose-6-phosphatase catalytic subunit 1 [Columba livia],139,142,AMIDATION
+>XP_005513636.3 glucose-6-phosphatase catalytic subunit 1 [Columba livia],,,None found
+>XP_021147138.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_013223190.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_005498696.1 glucose-6-phosphatase 2 isoform X4 [Columba livia],,,None found
+>XP_005498695.1 glucose-6-phosphatase 2 isoform X2 [Columba livia],,,None found
+>XP_064574326.1 glucose-6-phosphatase 2 isoform X2 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064574325.1 glucose-6-phosphatase 2 isoform X1 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064589836.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064589835.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064589421.1 glucose-6-phosphatase 3 isoform X2 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064589420.1 glucose-6-phosphatase 3 isoform X1 [Zonotrichia leucophrys gambelii],,,None found
+>XP_064517044.1 glucose-6-phosphatase 2 isoform X5 [Pseudopipra pipra],,,None found
+>XP_064517043.1 glucose-6-phosphatase 2 isoform X4 [Pseudopipra pipra],,,None found
+>XP_064517042.1 glucose-6-phosphatase 2 isoform X3 [Pseudopipra pipra],,,None found
+>XP_064517041.1 glucose-6-phosphatase 2 isoform X3 [Pseudopipra pipra],,,None found
+>XP_064517040.1 glucose-6-phosphatase 2 isoform X3 [Pseudopipra pipra],,,None found
+>XP_064517039.1 glucose-6-phosphatase 2 isoform X2 [Pseudopipra pipra],,,None found
+>XP_064517038.1 glucose-6-phosphatase 2 isoform X1 [Pseudopipra pipra],,,None found
+>XP_064517037.1 glucose-6-phosphatase 2 isoform X1 [Pseudopipra pipra],,,None found
+>XP_064492582.1 glucose-6-phosphatase catalytic subunit 1 [Pseudopipra pipra],139,142,AMIDATION
+>XP_064492582.1 glucose-6-phosphatase catalytic subunit 1 [Pseudopipra pipra],,,None found
+>XP_064492525.1 glucose-6-phosphatase 3 isoform X2 [Pseudopipra pipra],,,None found
+>XP_064492523.1 glucose-6-phosphatase 3 isoform X1 [Pseudopipra pipra],,,None found
+>XP_064370959.1 glucose-6-phosphatase 2 isoform X2 [Dromaius novaehollandiae],,,None found
+>XP_064380891.1 glucose-6-phosphatase catalytic subunit 1 [Dromaius novaehollandiae],349,352,AMIDATION
+>XP_064380891.1 glucose-6-phosphatase catalytic subunit 1 [Dromaius novaehollandiae],,,None found
+>XP_064380654.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],282,285,AMIDATION
+>XP_064380654.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],,,None found
+>XP_064380653.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],282,285,AMIDATION
+>XP_064380653.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],,,None found
+>XP_064380652.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],282,285,AMIDATION
+>XP_064380652.1 glucose-6-phosphatase 3 [Dromaius novaehollandiae],,,None found
+>XP_025949695.1 glucose-6-phosphatase 2 isoform X3 [Dromaius novaehollandiae],,,None found
+>XP_025949687.1 glucose-6-phosphatase 2 isoform X3 [Dromaius novaehollandiae],,,None found
+>XP_025949679.1 glucose-6-phosphatase 2 isoform X3 [Dromaius novaehollandiae],,,None found
+>XP_025949666.1 glucose-6-phosphatase 2 isoform X1 [Dromaius novaehollandiae],,,None found
+>XP_064307602.1 glucose-6-phosphatase 2 isoform X6 [Phalacrocorax carbo],,,None found
+>XP_064307601.1 glucose-6-phosphatase 2 isoform X5 [Phalacrocorax carbo],,,None found
+>XP_064307599.1 glucose-6-phosphatase 2 isoform X4 [Phalacrocorax carbo],,,None found
+>XP_064307598.1 glucose-6-phosphatase 2 isoform X3 [Phalacrocorax carbo],,,None found
+>XP_064307597.1 glucose-6-phosphatase 2 isoform X2 [Phalacrocorax carbo],,,None found
+>XP_064307596.1 glucose-6-phosphatase 2 isoform X2 [Phalacrocorax carbo],,,None found
+>XP_064307595.1 glucose-6-phosphatase 2 isoform X2 [Phalacrocorax carbo],,,None found
+>XP_064329509.1 glucose-6-phosphatase 3 [Phalacrocorax carbo],,,None found
+>XP_064329508.1 glucose-6-phosphatase 3 [Phalacrocorax carbo],,,None found
+>XP_064329507.1 glucose-6-phosphatase 3 [Phalacrocorax carbo],,,None found
+>XP_064329345.1 glucose-6-phosphatase catalytic subunit 1 [Phalacrocorax carbo],139,142,AMIDATION
+>XP_064329345.1 glucose-6-phosphatase catalytic subunit 1 [Phalacrocorax carbo],,,None found
+>XP_009510339.1 glucose-6-phosphatase 2 isoform X1 [Phalacrocorax carbo],,,None found
+>XP_064255734.1 glucose-6-phosphatase catalytic subunit 1 [Passer domesticus],,,None found
+>XP_064255641.1 glucose-6-phosphatase 3 [Passer domesticus],,,None found
+>XP_064290644.1 glucose-6-phosphatase 2 isoform X10 [Passer domesticus],,,None found
+>XP_064290643.1 glucose-6-phosphatase 2 isoform X10 [Passer domesticus],,,None found
+>XP_064290642.1 glucose-6-phosphatase 2 isoform X10 [Passer domesticus],,,None found
+>XP_064290641.1 glucose-6-phosphatase 2 isoform X9 [Passer domesticus],,,None found
+>XP_064290640.1 glucose-6-phosphatase 2 isoform X9 [Passer domesticus],,,None found
+>XP_064290639.1 glucose-6-phosphatase 2 isoform X8 [Passer domesticus],,,None found
+>XP_064290638.1 glucose-6-phosphatase 2 isoform X7 [Passer domesticus],,,None found
+>XP_064290636.1 glucose-6-phosphatase 2 isoform X6 [Passer domesticus],,,None found
+>XP_064290635.1 glucose-6-phosphatase 2 isoform X6 [Passer domesticus],,,None found
+>XP_064290634.1 glucose-6-phosphatase 2 isoform X6 [Passer domesticus],,,None found
+>XP_064290633.1 glucose-6-phosphatase 2 isoform X5 [Passer domesticus],,,None found
+>XP_064290632.1 glucose-6-phosphatase 2 isoform X5 [Passer domesticus],,,None found
+>XP_064290631.1 glucose-6-phosphatase 2 isoform X5 [Passer domesticus],,,None found
+>XP_064290630.1 glucose-6-phosphatase 2 isoform X4 [Passer domesticus],,,None found
+>XP_064290629.1 glucose-6-phosphatase 2 isoform X3 [Passer domesticus],,,None found
+>XP_064290628.1 glucose-6-phosphatase 2 isoform X3 [Passer domesticus],,,None found
+>XP_064290627.1 glucose-6-phosphatase 2 isoform X3 [Passer domesticus],,,None found
+>XP_064290625.1 glucose-6-phosphatase 2 isoform X3 [Passer domesticus],,,None found
+>XP_064290624.1 glucose-6-phosphatase 2 isoform X2 [Passer domesticus],,,None found
+>XP_064290623.1 glucose-6-phosphatase 2 isoform X1 [Passer domesticus],,,None found
+>XP_064030733.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030732.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030731.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030730.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030729.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030728.1 glucose-6-phosphatase 3 [Pogoniulus pusillus],,,None found
+>XP_064030190.1 glucose-6-phosphatase catalytic subunit 1 [Pogoniulus pusillus],,,None found
+>XP_064019643.1 glucose-6-phosphatase 2 isoform X6 [Pogoniulus pusillus],,,None found
+>XP_064019633.1 glucose-6-phosphatase 2 isoform X5 [Pogoniulus pusillus],,,None found
+>XP_064019624.1 glucose-6-phosphatase 2 isoform X4 [Pogoniulus pusillus],,,None found
+>XP_064019617.1 glucose-6-phosphatase 2 isoform X3 [Pogoniulus pusillus],,,None found
+>XP_064019610.1 glucose-6-phosphatase 2 isoform X3 [Pogoniulus pusillus],,,None found
+>XP_064019602.1 glucose-6-phosphatase 2 isoform X2 [Pogoniulus pusillus],,,None found
+>XP_064019588.1 glucose-6-phosphatase 2 isoform X1 [Pogoniulus pusillus],,,None found
+>XP_063260022.1 glucose-6-phosphatase catalytic subunit 1 [Prinia subflava],,,None found
+>XP_063259786.1 glucose-6-phosphatase 3 [Prinia subflava],269,272,AMIDATION
+>XP_063259786.1 glucose-6-phosphatase 3 [Prinia subflava],,,None found
+>XP_063255896.1 glucose-6-phosphatase 2 [Prinia subflava],,,None found
+>XP_063196384.1 glucose-6-phosphatase 2 isoform X2 [Chroicocephalus ridibundus],282,285,PRENYLATION
+>XP_063196384.1 glucose-6-phosphatase 2 isoform X2 [Chroicocephalus ridibundus],,,None found
+>XP_063196383.1 glucose-6-phosphatase 2 isoform X1 [Chroicocephalus ridibundus],,,None found
+>XP_063211033.1 glucose-6-phosphatase catalytic subunit 1 [Chroicocephalus ridibundus],200,203,AMIDATION
+>XP_063211033.1 glucose-6-phosphatase catalytic subunit 1 [Chroicocephalus ridibundus],,,None found
+>XP_063210308.1 glucose-6-phosphatase 3 [Chroicocephalus ridibundus],,,None found
+>XP_063018140.1 glucose-6-phosphatase 2 isoform X3 [Melospiza melodia melodia],,,None found
+>XP_063018139.1 glucose-6-phosphatase 2 isoform X2 [Melospiza melodia melodia],,,None found
+>XP_063018138.1 glucose-6-phosphatase 2 isoform X1 [Melospiza melodia melodia],,,None found
+>XP_063035125.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Melospiza melodia melodia],,,None found
+>XP_063034911.1 glucose-6-phosphatase catalytic subunit 1 [Melospiza melodia melodia],,,None found
+>XP_062460789.1 glucose-6-phosphatase 2 isoform X5 [Pezoporus occidentalis],,,None found
+>XP_062460787.1 glucose-6-phosphatase 2 isoform X4 [Pezoporus occidentalis],,,None found
+>XP_062460786.1 glucose-6-phosphatase 2 isoform X3 [Pezoporus occidentalis],,,None found
+>XP_062460785.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus occidentalis],,,None found
+>XP_062460784.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus occidentalis],,,None found
+>XP_062460783.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus occidentalis],,,None found
+>XP_062460782.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus occidentalis],,,None found
+>XP_062460781.1 glucose-6-phosphatase 2 isoform X1 [Pezoporus occidentalis],,,None found
+>XP_062488123.1 glucose-6-phosphatase 3 [Pezoporus occidentalis],,,None found
+>XP_062484842.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus occidentalis],139,142,AMIDATION
+>XP_062484842.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus occidentalis],,,None found
+>XP_062434874.1 glucose-6-phosphatase 2 [Rhea pennata],,,None found
+>XP_062451852.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Rhea pennata],,,None found
+>XP_062451666.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Rhea pennata],348,351,AMIDATION
+>XP_062451666.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Rhea pennata],,,None found
+>XP_062451665.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Rhea pennata],348,351,AMIDATION
+>XP_062451665.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Rhea pennata],,,None found
+>XP_062354434.1 glucose-6-phosphatase 2 [Cinclus cinclus],,,None found
+>XP_062364082.1 glucose-6-phosphatase 3 [Cinclus cinclus],,,None found
+>XP_062363994.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Cinclus cinclus],,,None found
+>XP_062363993.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Cinclus cinclus],,,None found
+>KAK4817246.1 hypothetical protein QYF61_005459 [Mycteria americana],,,None found
+>KAK4808656.1 hypothetical protein QYF61_020145 [Mycteria americana],,,None found
+>KAK4808622.1 hypothetical protein QYF61_012692 [Mycteria americana],,,None found
+>XP_061874442.1 glucose-6-phosphatase 3 [Colius striatus],,,None found
+>XP_061874441.1 glucose-6-phosphatase 3 [Colius striatus],,,None found
+>XP_010199970.1 glucose-6-phosphatase 2 [Colius striatus],214,230,TNF_1
+>XP_010199970.1 glucose-6-phosphatase 2 [Colius striatus],,,None found
+>XP_010207956.1 glucose-6-phosphatase catalytic subunit 1 [Colius striatus],139,142,AMIDATION
+>XP_010207956.1 glucose-6-phosphatase catalytic subunit 1 [Colius striatus],,,None found
+>XP_061299481.1 glucose-6-phosphatase 3 [Pezoporus flaviventris],,,None found
+>XP_061333646.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus flaviventris],139,142,AMIDATION
+>XP_061333646.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus flaviventris],,,None found
+>XP_061308752.1 glucose-6-phosphatase 2 isoform X5 [Pezoporus flaviventris],,,None found
+>XP_061308745.1 glucose-6-phosphatase 2 isoform X4 [Pezoporus flaviventris],,,None found
+>XP_061308738.1 glucose-6-phosphatase 2 isoform X3 [Pezoporus flaviventris],,,None found
+>XP_061308728.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus flaviventris],,,None found
+>XP_061308717.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus flaviventris],,,None found
+>XP_061308707.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus flaviventris],,,None found
+>XP_061308700.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus flaviventris],,,None found
+>XP_061308693.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus flaviventris],,,None found
+>XP_061308676.1 glucose-6-phosphatase 2 isoform X1 [Pezoporus flaviventris],,,None found
+>XP_061222987.1 glucose-6-phosphatase catalytic subunit 1 [Neopsephotus bourkii],139,142,AMIDATION
+>XP_061222987.1 glucose-6-phosphatase catalytic subunit 1 [Neopsephotus bourkii],,,None found
+>XP_061199243.1 glucose-6-phosphatase 2 isoform X4 [Neopsephotus bourkii],,,None found
+>XP_061199236.1 glucose-6-phosphatase 2 isoform X3 [Neopsephotus bourkii],,,None found
+>XP_061199228.1 glucose-6-phosphatase 2 isoform X2 [Neopsephotus bourkii],,,None found
+>XP_061199219.1 glucose-6-phosphatase 2 isoform X2 [Neopsephotus bourkii],,,None found
+>XP_061199212.1 glucose-6-phosphatase 2 isoform X2 [Neopsephotus bourkii],,,None found
+>XP_061199205.1 glucose-6-phosphatase 2 isoform X1 [Neopsephotus bourkii],,,None found
+>XP_059709026.1 glucose-6-phosphatase 2 isoform X2 [Haemorhous mexicanus],,,None found
+>XP_059709025.1 glucose-6-phosphatase 2 isoform X1 [Haemorhous mexicanus],,,None found
+>XP_059725180.1 glucose-6-phosphatase 3 [Haemorhous mexicanus],,,None found
+>XP_059725010.1 glucose-6-phosphatase catalytic subunit 1 [Haemorhous mexicanus],,,None found
+>XP_059676578.1 glucose-6-phosphatase 2 [Gavia stellata],,,None found
+>XP_059686527.1 glucose-6-phosphatase 3 [Gavia stellata],,,None found
+>XP_009812197.2 glucose-6-phosphatase catalytic subunit 1 [Gavia stellata],139,142,AMIDATION
+>XP_009812197.2 glucose-6-phosphatase catalytic subunit 1 [Gavia stellata],,,None found
+>XP_059331694.1 glucose-6-phosphatase 2 [Ammospiza nelsoni],,,None found
+>XP_059345237.1 glucose-6-phosphatase catalytic subunit 1 [Ammospiza nelsoni],,,None found
+>XP_059345078.1 glucose-6-phosphatase 3 [Ammospiza nelsoni],,,None found
+>XP_058696009.1 glucose-6-phosphatase 2 isoform X2 [Poecile atricapillus],,,None found
+>XP_058696008.1 glucose-6-phosphatase 2 isoform X1 [Poecile atricapillus],,,None found
+>XP_058713892.1 glucose-6-phosphatase catalytic subunit 1 [Poecile atricapillus],,,None found
+>XP_058713762.1 glucose-6-phosphatase 3 [Poecile atricapillus],,,None found
+>XP_058665076.1 glucose-6-phosphatase 2 [Ammospiza caudacuta],,,None found
+>XP_058676821.1 glucose-6-phosphatase 3 [Ammospiza caudacuta],,,None found
+>XP_058676570.1 glucose-6-phosphatase catalytic subunit 1 [Ammospiza caudacuta],,,None found
+>XP_039925619.1 glucose-6-phosphatase 2 isoform X3 [Hirundo rustica],,,None found
+>XP_039925618.1 glucose-6-phosphatase 2 isoform X2 [Hirundo rustica],,,None found
+>XP_039925617.1 glucose-6-phosphatase 2 isoform X2 [Hirundo rustica],,,None found
+>XP_039925616.1 glucose-6-phosphatase 2 isoform X2 [Hirundo rustica],,,None found
+>XP_039925615.1 glucose-6-phosphatase 2 isoform X1 [Hirundo rustica],,,None found
+>XP_039943279.1 glucose-6-phosphatase catalytic subunit 1 [Hirundo rustica],,,None found
+>XP_039910055.1 glucose-6-phosphatase 3 isoform X2 [Hirundo rustica],,,None found
+>XP_039910054.1 glucose-6-phosphatase 3 isoform X1 [Hirundo rustica],,,None found
+>XP_057884218.1 glucose-6-phosphatase 2 [Melospiza georgiana],,,None found
+>XP_057897914.1 glucose-6-phosphatase catalytic subunit 1 [Melospiza georgiana],,,None found
+>XP_057897697.1 glucose-6-phosphatase 3 [Melospiza georgiana],,,None found
+>XP_057279828.1 glucose-6-phosphatase 2 isoform X5 [Pezoporus wallicus],,,None found
+>XP_057279827.1 glucose-6-phosphatase 2 isoform X4 [Pezoporus wallicus],,,None found
+>XP_057279826.1 glucose-6-phosphatase 2 isoform X3 [Pezoporus wallicus],,,None found
+>XP_057279825.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus wallicus],,,None found
+>XP_057279824.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus wallicus],,,None found
+>XP_057279823.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus wallicus],,,None found
+>XP_057279822.1 glucose-6-phosphatase 2 isoform X2 [Pezoporus wallicus],,,None found
+>XP_057279821.1 glucose-6-phosphatase 2 isoform X1 [Pezoporus wallicus],,,None found
+>XP_057270160.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus wallicus],139,142,AMIDATION
+>XP_057270160.1 glucose-6-phosphatase catalytic subunit 1 [Pezoporus wallicus],,,None found
+>XP_057256088.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Pezoporus wallicus],,,None found
+">XP_057245515.1 glucose-6-phosphatase catalytic subunit 1-like, partial [Malurus melanocephalus]",,,None found
+">XP_057235532.1 glucose-6-phosphatase catalytic subunit 1, partial [Malurus melanocephalus]",32,35,AMIDATION
+">XP_057235532.1 glucose-6-phosphatase catalytic subunit 1, partial [Malurus melanocephalus]",,,None found
+>XP_057227699.1 glucose-6-phosphatase 2 isoform X2 [Malurus melanocephalus],,,None found
+>XP_057227698.1 glucose-6-phosphatase 2 isoform X1 [Malurus melanocephalus],,,None found
+>XP_056351817.1 glucose-6-phosphatase 2 isoform X3 [Oenanthe melanoleuca],,,None found
+>XP_056351816.1 glucose-6-phosphatase 2 isoform X2 [Oenanthe melanoleuca],,,None found
+>XP_056351815.1 glucose-6-phosphatase 2 isoform X1 [Oenanthe melanoleuca],,,None found
+>XP_056368066.1 glucose-6-phosphatase 3 [Oenanthe melanoleuca],,,None found
+>XP_056368065.1 glucose-6-phosphatase 3 [Oenanthe melanoleuca],,,None found
+>XP_056368047.1 glucose-6-phosphatase catalytic subunit 1 [Oenanthe melanoleuca],,,None found
+>XP_056205566.1 glucose-6-phosphatase 2 isoform X3 [Falco biarmicus],,,None found
+>XP_056205565.1 glucose-6-phosphatase 2 isoform X2 [Falco biarmicus],4,7,AMIDATION
+>XP_056205565.1 glucose-6-phosphatase 2 isoform X2 [Falco biarmicus],,,None found
+>XP_056205564.1 glucose-6-phosphatase 2 isoform X1 [Falco biarmicus],,,None found
+>XP_056218587.1 glucose-6-phosphatase catalytic subunit 1 [Falco biarmicus],139,142,AMIDATION
+>XP_056218587.1 glucose-6-phosphatase catalytic subunit 1 [Falco biarmicus],,,None found
+>XP_056218500.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Falco biarmicus],,,None found
+>XP_055668705.1 glucose-6-phosphatase 2 isoform X2 [Falco peregrinus],4,7,AMIDATION
+>XP_055668705.1 glucose-6-phosphatase 2 isoform X2 [Falco peregrinus],,,None found
+>XP_055645922.1 glucose-6-phosphatase 3 isoform X2 [Falco peregrinus],,,None found
+>XP_005238894.3 glucose-6-phosphatase catalytic subunit 1 [Falco peregrinus],139,142,AMIDATION
+>XP_005238894.3 glucose-6-phosphatase catalytic subunit 1 [Falco peregrinus],,,None found
+>XP_055574812.1 glucose-6-phosphatase 2 isoform X2 [Falco cherrug],4,7,AMIDATION
+>XP_055574812.1 glucose-6-phosphatase 2 isoform X2 [Falco cherrug],,,None found
+>XP_027661598.2 glucose-6-phosphatase 3 isoform X2 [Falco cherrug],,,None found
+>XP_014138509.2 glucose-6-phosphatase 2 isoform X3 [Falco cherrug],,,None found
+>XP_005443048.2 glucose-6-phosphatase 2 isoform X1 [Falco cherrug],,,None found
+>XP_027661599.1 glucose-6-phosphatase 3 isoform X1 [Falco cherrug],,,None found
+>XP_013154349.2 glucose-6-phosphatase 2 isoform X3 [Falco peregrinus],,,None found
+>XP_005237187.2 glucose-6-phosphatase 2 isoform X1 [Falco peregrinus],,,None found
+>XP_027640178.1 glucose-6-phosphatase 3 isoform X1 [Falco peregrinus],,,None found
+>XP_005439497.2 glucose-6-phosphatase catalytic subunit 1 [Falco cherrug],139,142,AMIDATION
+>XP_005439497.2 glucose-6-phosphatase catalytic subunit 1 [Falco cherrug],,,None found
+>XP_005439522.1 glucose-6-phosphatase 3 isoform X3 [Falco cherrug],,,None found
+>XP_005235928.1 glucose-6-phosphatase 3 isoform X3 [Falco peregrinus],,,None found
+>XP_054686818.1 glucose-6-phosphatase 2 isoform X6 [Grus americana],,,None found
+>XP_054686817.1 glucose-6-phosphatase 2 isoform X5 [Grus americana],285,287,MICROBODIES_CTER
+>XP_054686817.1 glucose-6-phosphatase 2 isoform X5 [Grus americana],,,None found
+>XP_054686816.1 glucose-6-phosphatase 2 isoform X4 [Grus americana],,,None found
+>XP_054686815.1 glucose-6-phosphatase 2 isoform X3 [Grus americana],,,None found
+>XP_054686814.1 glucose-6-phosphatase 2 isoform X2 [Grus americana],,,None found
+>XP_054686813.1 glucose-6-phosphatase 2 isoform X1 [Grus americana],,,None found
+>XP_054657452.1 glucose-6-phosphatase 3 isoform X3 [Grus americana],,,None found
+>XP_054657451.1 glucose-6-phosphatase 3 isoform X2 [Grus americana],22,25,AMIDATION
+>XP_054657451.1 glucose-6-phosphatase 3 isoform X2 [Grus americana],,,None found
+>XP_054657450.1 glucose-6-phosphatase 3 isoform X1 [Grus americana],,,None found
+>XP_054657408.1 glucose-6-phosphatase catalytic subunit 1 [Grus americana],139,142,AMIDATION
+>XP_054657408.1 glucose-6-phosphatase catalytic subunit 1 [Grus americana],,,None found
+>XP_054492637.1 glucose-6-phosphatase 2 [Agelaius phoeniceus],,,None found
+>XP_054505601.1 glucose-6-phosphatase catalytic subunit 1 [Agelaius phoeniceus],,,None found
+>XP_054505593.1 glucose-6-phosphatase 3 [Agelaius phoeniceus],,,None found
+>XP_036242915.1 glucose-6-phosphatase 2 [Molothrus ater],,,None found
+>XP_036255053.1 glucose-6-phosphatase 3 isoform X2 [Molothrus ater],,,None found
+>XP_036255052.1 glucose-6-phosphatase 3 isoform X1 [Molothrus ater],294,297,AMIDATION
+>XP_036255052.1 glucose-6-phosphatase 3 isoform X1 [Molothrus ater],,,None found
+>XP_036254952.1 glucose-6-phosphatase catalytic subunit 1 [Molothrus ater],,,None found
+>XP_054237114.1 glucose-6-phosphatase 2 [Indicator indicator],,,None found
+>XP_054252807.1 glucose-6-phosphatase catalytic subunit 1 [Indicator indicator],139,142,AMIDATION
+>XP_054252807.1 glucose-6-phosphatase catalytic subunit 1 [Indicator indicator],,,None found
+>KAJ7422098.1 Glucose-6-phosphatase 3 [Pitangus sulphuratus],,,None found
+>KAJ7421106.1 Glucose-6-phosphatase [Willisornis vidua],139,142,AMIDATION
+>KAJ7421106.1 Glucose-6-phosphatase [Willisornis vidua],,,None found
+>KAJ7409565.1 Glucose-6-phosphatase 3 [Willisornis vidua],,,None found
+>KAJ7405571.1 Glucose-6-phosphatase 2 [Pitangus sulphuratus],,,None found
+>KAJ7396366.1 Glucose-6-phosphatase [Pitangus sulphuratus],139,142,AMIDATION
+>KAJ7396366.1 Glucose-6-phosphatase [Pitangus sulphuratus],,,None found
+>XP_054137714.1 glucose-6-phosphatase 3 [Melozone crissalis],,,None found
+>XP_054137553.1 glucose-6-phosphatase catalytic subunit 1 [Melozone crissalis],,,None found
+>XP_054134319.1 glucose-6-phosphatase 2 [Melozone crissalis],,,None found
+>XP_054064458.1 glucose-6-phosphatase 2 [Rissa tridactyla],,,None found
+>XP_054080366.1 glucose-6-phosphatase 3 [Rissa tridactyla],,,None found
+>XP_054080324.1 glucose-6-phosphatase catalytic subunit 1 [Rissa tridactyla],139,142,AMIDATION
+>XP_054080324.1 glucose-6-phosphatase catalytic subunit 1 [Rissa tridactyla],,,None found
+>XP_054032867.1 glucose-6-phosphatase 3 [Dryobates pubescens],49,52,AMIDATION
+>XP_054032867.1 glucose-6-phosphatase 3 [Dryobates pubescens],,,None found
+>XP_054032663.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Dryobates pubescens],93,96,AMIDATION
+>XP_054032663.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Dryobates pubescens],,,None found
+>XP_009899158.2 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Dryobates pubescens],139,142,AMIDATION
+>XP_009899158.2 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Dryobates pubescens],,,None found
+>XP_009903782.1 glucose-6-phosphatase 2 [Dryobates pubescens],214,230,TNF_1
+>XP_009903782.1 glucose-6-phosphatase 2 [Dryobates pubescens],,,None found
+>XP_053926452.1 glucose-6-phosphatase 2 isoform X2 [Cuculus canorus],,,None found
+>XP_009553856.2 glucose-6-phosphatase 2 isoform X1 [Cuculus canorus],,,None found
+>XP_053944311.1 glucose-6-phosphatase 3 isoform X1 [Cuculus canorus],,,None found
+>XP_009553670.2 glucose-6-phosphatase catalytic subunit 1 [Cuculus canorus],139,142,AMIDATION
+>XP_009553670.2 glucose-6-phosphatase catalytic subunit 1 [Cuculus canorus],,,None found
+>XP_009569455.1 glucose-6-phosphatase 3 isoform X2 [Cuculus canorus],,,None found
+>XP_053838196.1 glucose-6-phosphatase 2 isoform X3 [Vidua macroura],,,None found
+>XP_053838194.1 glucose-6-phosphatase 2 isoform X2 [Vidua macroura],,,None found
+>XP_053838193.1 glucose-6-phosphatase 2 isoform X2 [Vidua macroura],,,None found
+>XP_053838192.1 glucose-6-phosphatase 2 isoform X1 [Vidua macroura],,,None found
+>XP_053803150.1 glucose-6-phosphatase 2 isoform X3 [Vidua chalybeata],,,None found
+>XP_053803148.1 glucose-6-phosphatase 2 isoform X2 [Vidua chalybeata],,,None found
+>XP_053803147.1 glucose-6-phosphatase 2 isoform X2 [Vidua chalybeata],,,None found
+>XP_053803146.1 glucose-6-phosphatase 2 isoform X1 [Vidua chalybeata],,,None found
+>XP_053856303.1 glucose-6-phosphatase catalytic subunit 1 [Vidua macroura],,,None found
+>XP_053856049.1 glucose-6-phosphatase 3 isoform X2 [Vidua macroura],,,None found
+>XP_053856048.1 glucose-6-phosphatase 3 isoform X2 [Vidua macroura],,,None found
+>XP_053856047.1 glucose-6-phosphatase 3 isoform X1 [Vidua macroura],,,None found
+>XP_053821367.1 glucose-6-phosphatase catalytic subunit 1 [Vidua chalybeata],,,None found
+>XP_053821130.1 glucose-6-phosphatase 3 isoform X3 [Vidua chalybeata],,,None found
+>XP_053821129.1 glucose-6-phosphatase 3 isoform X2 [Vidua chalybeata],,,None found
+>XP_053821127.1 glucose-6-phosphatase 3 isoform X1 [Vidua chalybeata],,,None found
+>XP_050841710.1 glucose-6-phosphatase 3 [Serinus canaria],,,None found
+>XP_009094733.2 glucose-6-phosphatase catalytic subunit 1 [Serinus canaria],,,None found
+>XP_035424301.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Cygnus atratus],139,142,AMIDATION
+>XP_035424301.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Cygnus atratus],,,None found
+>XP_035424300.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Cygnus atratus],139,142,AMIDATION
+>XP_035424300.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Cygnus atratus],,,None found
+>XP_035428557.1 glucose-6-phosphatase 2 isoform X3 [Cygnus atratus],,,None found
+>XP_035428556.1 glucose-6-phosphatase 2 isoform X3 [Cygnus atratus],,,None found
+>XP_035428555.1 glucose-6-phosphatase 2 isoform X2 [Cygnus atratus],,,None found
+>XP_035428554.1 glucose-6-phosphatase 2 isoform X1 [Cygnus atratus],,,None found
+>XP_009086211.1 glucose-6-phosphatase 2 [Serinus canaria],,,None found
+>XP_050755822.1 glucose-6-phosphatase 2 isoform X2 [Gymnogyps californianus],,,None found
+>XP_050755821.1 glucose-6-phosphatase 2 isoform X1 [Gymnogyps californianus],,,None found
+>XP_050767800.1 glucose-6-phosphatase catalytic subunit 1 [Gymnogyps californianus],139,142,AMIDATION
+>XP_050767800.1 glucose-6-phosphatase catalytic subunit 1 [Gymnogyps californianus],,,None found
+>XP_050767785.1 glucose-6-phosphatase 3 [Gymnogyps californianus],,,None found
+>XP_050767784.1 glucose-6-phosphatase 3 [Gymnogyps californianus],,,None found
+>XP_049655634.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],139,142,AMIDATION
+>XP_049655634.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],,,None found
+>XP_049655633.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],139,142,AMIDATION
+>XP_049655633.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],,,None found
+>XP_049655632.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],139,142,AMIDATION
+>XP_049655632.1 glucose-6-phosphatase catalytic subunit 1 [Astur gentilis],,,None found
+>XP_049656473.1 glucose-6-phosphatase 2 [Astur gentilis],,,None found
+>XP_049653093.1 glucose-6-phosphatase 3 [Astur gentilis],,,None found
+>XP_052649403.1 glucose-6-phosphatase 2 isoform X2 [Harpia harpyja],,,None found
+>XP_052649402.1 glucose-6-phosphatase 2 isoform X1 [Harpia harpyja],,,None found
+>XP_052641529.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],139,142,AMIDATION
+>XP_052641529.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],,,None found
+>XP_052641528.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],139,142,AMIDATION
+>XP_052641528.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],,,None found
+>XP_052641527.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],139,142,AMIDATION
+>XP_052641527.1 glucose-6-phosphatase catalytic subunit 1 [Harpia harpyja],,,None found
+>XP_052641198.1 glucose-6-phosphatase 3 [Harpia harpyja],,,None found
+>XP_052526743.1 glucose-6-phosphatase 3 [Tympanuchus pallidicinctus],,,None found
+>XP_052556169.1 glucose-6-phosphatase catalytic subunit 1 [Tympanuchus pallidicinctus],139,142,AMIDATION
+>XP_052556169.1 glucose-6-phosphatase catalytic subunit 1 [Tympanuchus pallidicinctus],,,None found
+>XP_052530977.1 glucose-6-phosphatase 2 [Tympanuchus pallidicinctus],,,None found
+>XP_051659608.1 glucose-6-phosphatase 3 isoform X2 [Manacus candei],,,None found
+>XP_051659607.1 glucose-6-phosphatase 3 isoform X1 [Manacus candei],,,None found
+>XP_051650719.1 glucose-6-phosphatase catalytic subunit 1 [Manacus candei],139,142,AMIDATION
+>XP_051650719.1 glucose-6-phosphatase catalytic subunit 1 [Manacus candei],,,None found
+>XP_051643454.1 glucose-6-phosphatase 2 isoform X6 [Manacus candei],,,None found
+>XP_051643453.1 glucose-6-phosphatase 2 isoform X5 [Manacus candei],,,None found
+>XP_051643452.1 glucose-6-phosphatase 2 isoform X5 [Manacus candei],,,None found
+>XP_051643450.1 glucose-6-phosphatase 2 isoform X4 [Manacus candei],,,None found
+>XP_051643449.1 glucose-6-phosphatase 2 isoform X4 [Manacus candei],,,None found
+>XP_051643448.1 glucose-6-phosphatase 2 isoform X3 [Manacus candei],,,None found
+>XP_051643447.1 glucose-6-phosphatase 2 isoform X2 [Manacus candei],,,None found
+>XP_051643446.1 glucose-6-phosphatase 2 isoform X2 [Manacus candei],,,None found
+>XP_051643445.1 glucose-6-phosphatase 2 isoform X1 [Manacus candei],,,None found
+>XP_051643444.1 glucose-6-phosphatase 2 isoform X1 [Manacus candei],,,None found
+>XP_051643443.1 glucose-6-phosphatase 2 isoform X1 [Manacus candei],,,None found
+>XP_051643442.1 glucose-6-phosphatase 2 isoform X1 [Manacus candei],,,None found
+>XP_051643441.1 glucose-6-phosphatase 2 isoform X1 [Manacus candei],,,None found
+>XP_051479981.1 glucose-6-phosphatase 2 isoform X8 [Apus apus],,,None found
+>XP_051479980.1 glucose-6-phosphatase 2 isoform X7 [Apus apus],,,None found
+>XP_051479979.1 glucose-6-phosphatase 2 isoform X6 [Apus apus],,,None found
+>XP_051479978.1 glucose-6-phosphatase 2 isoform X5 [Apus apus],,,None found
+>XP_051479977.1 glucose-6-phosphatase 2 isoform X5 [Apus apus],,,None found
+>XP_051479976.1 glucose-6-phosphatase 2 isoform X4 [Apus apus],,,None found
+>XP_051479975.1 glucose-6-phosphatase 2 isoform X3 [Apus apus],,,None found
+>XP_051479974.1 glucose-6-phosphatase 2 isoform X2 [Apus apus],,,None found
+>XP_051479973.1 glucose-6-phosphatase 2 isoform X1 [Apus apus],,,None found
+>XP_051496552.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Apus apus],124,127,AMIDATION
+>XP_051496552.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Apus apus],,,None found
+>XP_051496551.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Apus apus],139,142,AMIDATION
+>XP_051496551.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Apus apus],,,None found
+>XP_050195556.1 glucose-6-phosphatase 2 isoform X4 [Myiozetetes cayanensis],,,None found
+>XP_050195555.1 glucose-6-phosphatase 2 isoform X3 [Myiozetetes cayanensis],,,None found
+>XP_050195554.1 glucose-6-phosphatase 2 isoform X3 [Myiozetetes cayanensis],,,None found
+>XP_050195553.1 glucose-6-phosphatase 2 isoform X3 [Myiozetetes cayanensis],,,None found
+>XP_050195552.1 glucose-6-phosphatase 2 isoform X3 [Myiozetetes cayanensis],,,None found
+>XP_050195551.1 glucose-6-phosphatase 2 isoform X2 [Myiozetetes cayanensis],,,None found
+>XP_050195550.1 glucose-6-phosphatase 2 isoform X1 [Myiozetetes cayanensis],,,None found
+>XP_050183920.1 glucose-6-phosphatase 3 isoform X2 [Myiozetetes cayanensis],,,None found
+>XP_050183919.1 glucose-6-phosphatase 3 isoform X1 [Myiozetetes cayanensis],,,None found
+>XP_050183690.1 glucose-6-phosphatase catalytic subunit 1 [Myiozetetes cayanensis],139,142,AMIDATION
+>XP_050183690.1 glucose-6-phosphatase catalytic subunit 1 [Myiozetetes cayanensis],,,None found
+>LAH61910.1 glucose-6-phosphatase 3 [Antigone vipio],,,None found
+>LAH71893.1 glucose-6-phosphatase 2 isoform X4 [Antigone vipio],208,211,AMIDATION
+>LAH71893.1 glucose-6-phosphatase 2 isoform X4 [Antigone vipio],,,None found
+>LAG95922.1 glucose-6-phosphatase 2 isoform X4 [Falco peregrinus],,,None found
+>LAG91581.1 glucose-6-phosphatase 2 isoform X5 [Falco peregrinus],,,None found
+>LAH18032.1 glucose-6-phosphatase 3 [Falco peregrinus],,,None found
+>LAH18039.1 glucose-6-phosphatase 3 [Falco peregrinus],,,None found
+>LAI77308.1 glucose-6-phosphatase 2 isoform X5 [Astur gentilis],,,None found
+>LAI86684.1 glucose-6-phosphatase 3 [Astur gentilis],,,None found
+>KAI6072612.1 Glucose-6-phosphatase [Aix galericulata],139,142,AMIDATION
+>KAI6072612.1 Glucose-6-phosphatase [Aix galericulata],,,None found
+>KAI6065098.1 Glucose-6-phosphatase 2 isoform X3 [Aix galericulata],,,None found
+>XP_048809601.1 glucose-6-phosphatase 2 [Lagopus muta],,,None found
+>XP_048783081.1 glucose-6-phosphatase catalytic subunit 1 [Lagopus muta],139,142,AMIDATION
+>XP_048783081.1 glucose-6-phosphatase catalytic subunit 1 [Lagopus muta],,,None found
+>XP_048164921.1 glucose-6-phosphatase 2 [Corvus hawaiiensis],,,None found
+>XP_048175919.1 glucose-6-phosphatase 3 [Corvus hawaiiensis],,,None found
+>XP_048172249.1 glucose-6-phosphatase catalytic subunit 1 [Corvus hawaiiensis],191,194,AMIDATION
+>XP_048172249.1 glucose-6-phosphatase catalytic subunit 1 [Corvus hawaiiensis],15,18,AMIDATION
+>XP_048172249.1 glucose-6-phosphatase catalytic subunit 1 [Corvus hawaiiensis],,,None found
+>KAI1230272.1 Glucose-6-phosphatase [Lamprotornis superbus],,,None found
+>XP_046777910.1 glucose-6-phosphatase 2 isoform X6 [Gallus gallus],,,None found
+>XP_040548341.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],139,142,AMIDATION
+>XP_040548341.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],,,None found
+>XP_040548340.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],139,142,AMIDATION
+>XP_040548340.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],,,None found
+>XP_046800043.1 glucose-6-phosphatase 2 isoform X6 [Gallus gallus],,,None found
+>XP_004948688.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],139,142,AMIDATION
+>XP_004948688.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],,,None found
+>XP_003642865.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],139,142,AMIDATION
+>XP_003642865.2 glucose-6-phosphatase catalytic subunit 1 [Gallus gallus],,,None found
+>XP_040532686.1 glucose-6-phosphatase 2 isoform X5 [Gallus gallus],,,None found
+>XP_040532685.1 glucose-6-phosphatase 2 isoform X4 [Gallus gallus],,,None found
+>XP_040532684.1 glucose-6-phosphatase 2 isoform X3 [Gallus gallus],,,None found
+>XP_040532683.1 glucose-6-phosphatase 2 isoform X2 [Gallus gallus],,,None found
+>XP_040532682.1 glucose-6-phosphatase 2 isoform X1 [Gallus gallus],,,None found
+>XP_040547890.1 glucose-6-phosphatase 3 [Gallus gallus],,,None found
+>XP_040547889.1 glucose-6-phosphatase 3 [Gallus gallus],,,None found
+>XP_040560131.1 glucose-6-phosphatase 2 isoform X5 [Gallus gallus],,,None found
+>XP_422017.3 glucose-6-phosphatase 2 isoform X2 [Gallus gallus],,,None found
+>XP_015128784.2 glucose-6-phosphatase 3 [Gallus gallus],,,None found
+>XP_015128783.2 glucose-6-phosphatase 3 [Gallus gallus],,,None found
+>XP_004942827.1 glucose-6-phosphatase 2 isoform X4 [Gallus gallus],,,None found
+>XP_004942826.1 glucose-6-phosphatase 2 isoform X3 [Gallus gallus],,,None found
+>XP_003641696.1 glucose-6-phosphatase 2 isoform X1 [Gallus gallus],,,None found
+">LAC40876.1 glucose-6-phosphatase catalytic subunit 2, partial [Hypotaenidia okinawae]",,,None found
+">LAC45370.1 glucose-6-phosphatase catalytic subunit 3, partial [Hypotaenidia okinawae]",,,None found
+>XP_042664502.1 glucose-6-phosphatase 2 isoform X2 [Tyto alba],,,None found
+>XP_042664501.1 glucose-6-phosphatase 2 isoform X2 [Tyto alba],,,None found
+>XP_042664500.1 glucose-6-phosphatase 2 isoform X2 [Tyto alba],,,None found
+>XP_042664499.1 glucose-6-phosphatase 2 isoform X2 [Tyto alba],,,None found
+>XP_042664498.1 glucose-6-phosphatase 2 isoform X2 [Tyto alba],,,None found
+>XP_042664497.1 glucose-6-phosphatase 2 isoform X1 [Tyto alba],,,None found
+>XP_032841869.2 glucose-6-phosphatase catalytic subunit 1 [Tyto alba],139,142,AMIDATION
+>XP_032841869.2 glucose-6-phosphatase catalytic subunit 1 [Tyto alba],,,None found
+>XP_042643152.1 glucose-6-phosphatase catalytic subunit 1-like [Tyto alba],139,142,AMIDATION
+>XP_042643152.1 glucose-6-phosphatase catalytic subunit 1-like [Tyto alba],,,None found
+>XP_042749313.1 glucose-6-phosphatase 3 [Lagopus leucura],,,None found
+>XP_042743846.1 glucose-6-phosphatase catalytic subunit 1 [Lagopus leucura],139,142,AMIDATION
+>XP_042743846.1 glucose-6-phosphatase catalytic subunit 1 [Lagopus leucura],,,None found
+>XP_042730711.1 glucose-6-phosphatase 2 isoform X2 [Lagopus leucura],,,None found
+>XP_042730710.1 glucose-6-phosphatase 2 isoform X1 [Lagopus leucura],,,None found
+>XP_042692540.1 glucose-6-phosphatase catalytic subunit 1 [Centrocercus urophasianus],139,142,AMIDATION
+>XP_042692540.1 glucose-6-phosphatase catalytic subunit 1 [Centrocercus urophasianus],,,None found
+>XP_042677892.1 glucose-6-phosphatase 2 [Centrocercus urophasianus],,,None found
+>XP_032934646.1 glucose-6-phosphatase catalytic subunit 1 [Catharus ustulatus],139,142,AMIDATION
+>XP_032934646.1 glucose-6-phosphatase catalytic subunit 1 [Catharus ustulatus],,,None found
+>XP_032920757.1 glucose-6-phosphatase 2 isoform X2 [Catharus ustulatus],,,None found
+>XP_032920755.1 glucose-6-phosphatase 2 isoform X1 [Catharus ustulatus],,,None found
+>XP_041897012.1 glucose-6-phosphatase 2 [Corvus kubaryi],,,None found
+>XP_041883754.1 glucose-6-phosphatase catalytic subunit 1 [Corvus kubaryi],139,142,AMIDATION
+>XP_041883754.1 glucose-6-phosphatase catalytic subunit 1 [Corvus kubaryi],,,None found
+>XP_041871241.1 glucose-6-phosphatase 3 [Corvus kubaryi],,,None found
+>XP_041573612.1 glucose-6-phosphatase 2 isoform X2 [Taeniopygia guttata],,,None found
+>XP_041577513.1 glucose-6-phosphatase 3 isoform X2 [Taeniopygia guttata],,,None found
+>XP_030111845.3 glucose-6-phosphatase 3 isoform X2 [Taeniopygia guttata],,,None found
+>XP_030111844.3 glucose-6-phosphatase 3 isoform X1 [Taeniopygia guttata],,,None found
+>XP_004174736.4 glucose-6-phosphatase catalytic subunit 1 [Taeniopygia guttata],,,None found
+>XP_030133289.1 glucose-6-phosphatase 2 isoform X3 [Taeniopygia guttata],,,None found
+>XP_030133287.1 glucose-6-phosphatase 2 isoform X2 [Taeniopygia guttata],,,None found
+>XP_002194882.1 glucose-6-phosphatase 2 isoform X1 [Taeniopygia guttata],,,None found
+>XP_041321359.1 glucose-6-phosphatase 3 [Pyrgilauda ruficollis],,,None found
+>XP_041318999.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Pyrgilauda ruficollis],,,None found
+>XP_041318998.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Pyrgilauda ruficollis],,,None found
+>XP_041329252.1 glucose-6-phosphatase 2 [Pyrgilauda ruficollis],,,None found
+>XP_041259516.1 glucose-6-phosphatase 2 [Onychostruthus taczanowskii],,,None found
+>XP_041282316.1 glucose-6-phosphatase catalytic subunit 1 isoform X2 [Onychostruthus taczanowskii],,,None found
+>XP_041282315.1 glucose-6-phosphatase catalytic subunit 1 isoform X1 [Onychostruthus taczanowskii],,,None found
+>XP_041282173.1 glucose-6-phosphatase 3 isoform X2 [Onychostruthus taczanowskii],,,None found
+>XP_041282171.1 glucose-6-phosphatase 3 isoform X1 [Onychostruthus taczanowskii],264,267,AMIDATION
+>XP_041282171.1 glucose-6-phosphatase 3 isoform X1 [Onychostruthus taczanowskii],,,None found
+>XP_040981520.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],139,142,AMIDATION
+>XP_040981520.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_040981519.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],139,142,AMIDATION
+>XP_040981519.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_040981518.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],139,142,AMIDATION
+>XP_040981518.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_040981517.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],139,142,AMIDATION
+>XP_040981517.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_040980574.1 glucose-6-phosphatase 2 isoform X2 [Aquila chrysaetos chrysaetos],,,None found
+>XP_029877954.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],139,142,AMIDATION
+>XP_029877954.1 glucose-6-phosphatase catalytic subunit 1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_029877431.1 glucose-6-phosphatase 3 [Aquila chrysaetos chrysaetos],,,None found
+>XP_029877430.1 glucose-6-phosphatase 3 [Aquila chrysaetos chrysaetos],,,None found
+>XP_029877429.1 glucose-6-phosphatase 3 [Aquila chrysaetos chrysaetos],,,None found
+>XP_029874515.1 glucose-6-phosphatase 2 isoform X1 [Aquila chrysaetos chrysaetos],,,None found
+>XP_040461031.1 glucose-6-phosphatase 2 isoform X2 [Falco naumanni],,,None found
+>XP_040461030.1 glucose-6-phosphatase 2 isoform X1 [Falco naumanni],,,None found
+>XP_040473657.1 glucose-6-phosphatase [Falco naumanni],139,142,AMIDATION
+>XP_040473657.1 glucose-6-phosphatase [Falco naumanni],,,None found
+>XP_040473352.1 glucose-6-phosphatase 3 isoform X3 [Falco naumanni],272,275,AMIDATION
+>XP_040473352.1 glucose-6-phosphatase 3 isoform X3 [Falco naumanni],,,None found
+>XP_040473351.1 glucose-6-phosphatase 3 isoform X2 [Falco naumanni],,,None found
+>XP_040473350.1 glucose-6-phosphatase 3 isoform X1 [Falco naumanni],,,None found
+>XP_040418295.1 glucose-6-phosphatase 2 [Cygnus olor],,,None found
+>XP_040392851.1 glucose-6-phosphatase [Cygnus olor],139,142,AMIDATION
+>XP_040392851.1 glucose-6-phosphatase [Cygnus olor],,,None found
+>XP_039556497.1 glucose-6-phosphatase 3 [Passer montanus],,,None found
+>XP_039553177.1 glucose-6-phosphatase [Passer montanus],,,None found
+>XP_039552516.1 glucose-6-phosphatase 2 isoform X2 [Passer montanus],,,None found
+>XP_039552440.1 glucose-6-phosphatase 2 isoform X1 [Passer montanus],,,None found
+>XP_010405132.3 glucose-6-phosphatase 2 [Corvus cornix cornix],,,None found
+>XP_039420514.1 glucose-6-phosphatase 3 [Corvus cornix cornix],,,None found
+>XP_010411101.1 glucose-6-phosphatase [Corvus cornix cornix],139,142,AMIDATION
+>XP_010411101.1 glucose-6-phosphatase [Corvus cornix cornix],,,None found
+>XP_039243894.1 glucose-6-phosphatase 2 isoform X5 [Pipra filicauda],,,None found
+>XP_039243893.1 glucose-6-phosphatase 2 isoform X6 [Pipra filicauda],,,None found
+>XP_039243892.1 glucose-6-phosphatase 2 isoform X5 [Pipra filicauda],,,None found
+>XP_039243891.1 glucose-6-phosphatase 2 isoform X5 [Pipra filicauda],,,None found
+>XP_039243890.1 glucose-6-phosphatase 2 isoform X4 [Pipra filicauda],,,None found
+>XP_039243889.1 glucose-6-phosphatase 2 isoform X4 [Pipra filicauda],,,None found
+>XP_039243888.1 glucose-6-phosphatase 2 isoform X3 [Pipra filicauda],,,None found
+>XP_039243887.1 glucose-6-phosphatase 2 isoform X3 [Pipra filicauda],,,None found
+>XP_039243886.1 glucose-6-phosphatase 2 isoform X2 [Pipra filicauda],,,None found
+>XP_027601652.2 glucose-6-phosphatase [Pipra filicauda],139,142,AMIDATION
+>XP_027601652.2 glucose-6-phosphatase [Pipra filicauda],,,None found
+>XP_027594699.1 glucose-6-phosphatase 3 isoform X2 [Pipra filicauda],,,None found
+>XP_027594698.1 glucose-6-phosphatase 3 isoform X1 [Pipra filicauda],,,None found
+>XP_027589307.1 glucose-6-phosphatase 2 isoform X3 [Pipra filicauda],,,None found
+>XP_027589294.1 glucose-6-phosphatase 2 isoform X1 [Pipra filicauda],,,None found
+>XP_012954387.1 glucose-6-phosphatase 2 isoform X3 [Anas platyrhynchos],,,None found
+>XP_012954383.1 glucose-6-phosphatase 2 isoform X1 [Anas platyrhynchos],,,None found
+>XP_037999410.1 glucose-6-phosphatase 2 isoform X3 [Motacilla alba alba],,,None found
+>XP_037999409.1 glucose-6-phosphatase 2 isoform X2 [Motacilla alba alba],,,None found
+>XP_037999408.1 glucose-6-phosphatase 2 isoform X1 [Motacilla alba alba],,,None found
+>XP_038019160.1 glucose-6-phosphatase [Motacilla alba alba],,,None found
+>XP_027301312.1 glucose-6-phosphatase catalytic subunit 1 [Anas platyrhynchos],139,142,AMIDATION
+>XP_027301312.1 glucose-6-phosphatase catalytic subunit 1 [Anas platyrhynchos],,,None found
+>XP_037254777.1 glucose-6-phosphatase 2 isoform X3 [Falco rusticolus],,,None found
+>XP_037254776.1 glucose-6-phosphatase 2 isoform X2 [Falco rusticolus],4,7,AMIDATION
+>XP_037254776.1 glucose-6-phosphatase 2 isoform X2 [Falco rusticolus],,,None found
+>XP_037254775.1 glucose-6-phosphatase 2 isoform X1 [Falco rusticolus],,,None found
+>XP_037266979.1 glucose-6-phosphatase [Falco rusticolus],139,142,AMIDATION
+>XP_037266979.1 glucose-6-phosphatase [Falco rusticolus],,,None found
+>XP_037266894.1 glucose-6-phosphatase 3 isoform X3 [Falco rusticolus],,,None found
+>XP_037266893.1 glucose-6-phosphatase 3 isoform X2 [Falco rusticolus],,,None found
+>XP_037266891.1 glucose-6-phosphatase 3 isoform X1 [Falco rusticolus],,,None found
+>XP_009639048.1 glucose-6-phosphatase 2 [Egretta garzetta],,,None found
+>XP_009646606.1 glucose-6-phosphatase isoform X2 [Egretta garzetta],139,142,AMIDATION
+>XP_009646606.1 glucose-6-phosphatase isoform X2 [Egretta garzetta],,,None found
+>XP_009646599.1 glucose-6-phosphatase isoform X1 [Egretta garzetta],139,142,AMIDATION
+>XP_009646599.1 glucose-6-phosphatase isoform X1 [Egretta garzetta],,,None found
+>XP_035187784.1 glucose-6-phosphatase 2 [Oxyura jamaicensis],,,None found
+>XP_035203747.1 glucose-6-phosphatase isoform X2 [Oxyura jamaicensis],139,142,AMIDATION
+>XP_035203747.1 glucose-6-phosphatase isoform X2 [Oxyura jamaicensis],,,None found
+>XP_035203746.1 glucose-6-phosphatase isoform X1 [Oxyura jamaicensis],164,167,AMIDATION
+>XP_035203746.1 glucose-6-phosphatase isoform X1 [Oxyura jamaicensis],8,11,AMIDATION
+>XP_035203746.1 glucose-6-phosphatase isoform X1 [Oxyura jamaicensis],,,None found
+>KAF4804467.1 Glucose-6-phosphatase 3 [Turdus rufiventris],,,None found
+>KAF4787459.1 Glucose-6-phosphatase [Turdus rufiventris],139,142,AMIDATION
+>KAF4787459.1 Glucose-6-phosphatase [Turdus rufiventris],,,None found
+">XP_015471872.1 glucose-6-phosphatase 3, partial [Parus major]",,,None found
+>XP_015506695.1 glucose-6-phosphatase [Parus major],,,None found
+>XP_015489759.1 glucose-6-phosphatase 2 [Parus major],,,None found
+>XP_030364589.1 glucose-6-phosphatase 3 isoform X2 [Strigops habroptila],,,None found
+>XP_030364588.1 glucose-6-phosphatase 3 isoform X1 [Strigops habroptila],,,None found
+>XP_030364364.1 glucose-6-phosphatase [Strigops habroptila],139,142,AMIDATION
+>XP_030364364.1 glucose-6-phosphatase [Strigops habroptila],,,None found
+>XP_030342236.1 glucose-6-phosphatase 2 isoform X3 [Strigops habroptila],,,None found
+>XP_030342235.1 glucose-6-phosphatase 2 isoform X2 [Strigops habroptila],,,None found
+>XP_030342234.1 glucose-6-phosphatase 2 isoform X2 [Strigops habroptila],,,None found
+>XP_030342233.1 glucose-6-phosphatase 2 isoform X2 [Strigops habroptila],,,None found
+>XP_030342232.1 glucose-6-phosphatase 2 isoform X2 [Strigops habroptila],,,None found
+>XP_030342231.1 glucose-6-phosphatase 2 isoform X1 [Strigops habroptila],,,None found
+>KAF2985674.1 hypothetical protein EK904_012209 [Melospiza melodia maxima],,,None found
+>XP_032548564.1 glucose-6-phosphatase 2 isoform X3 [Chiroxiphia lanceolata],,,None found
+>XP_032548563.1 glucose-6-phosphatase 2 isoform X3 [Chiroxiphia lanceolata],,,None found
+>XP_032548562.1 glucose-6-phosphatase 2 isoform X3 [Chiroxiphia lanceolata],,,None found
+>XP_032548561.1 glucose-6-phosphatase 2 isoform X3 [Chiroxiphia lanceolata],,,None found
+>XP_032548560.1 glucose-6-phosphatase 2 isoform X2 [Chiroxiphia lanceolata],,,None found
+>XP_032548559.1 glucose-6-phosphatase 2 isoform X2 [Chiroxiphia lanceolata],,,None found
+>XP_032548558.1 glucose-6-phosphatase 2 isoform X2 [Chiroxiphia lanceolata],,,None found
+>XP_032548557.1 glucose-6-phosphatase 2 isoform X1 [Chiroxiphia lanceolata],,,None found
+>XP_032567349.1 glucose-6-phosphatase 3 [Chiroxiphia lanceolata],,,None found
+>XP_032567348.1 glucose-6-phosphatase 3 [Chiroxiphia lanceolata],,,None found
+>XP_032566992.1 glucose-6-phosphatase [Chiroxiphia lanceolata],139,142,AMIDATION
+>XP_032566992.1 glucose-6-phosphatase [Chiroxiphia lanceolata],,,None found
+>XP_015741500.1 glucose-6-phosphatase [Coturnix japonica],67,70,AMIDATION
+>XP_015741500.1 glucose-6-phosphatase [Coturnix japonica],,,None found
+>XP_015741373.1 glucose-6-phosphatase 3 [Coturnix japonica],,,None found
+>XP_015724075.1 glucose-6-phosphatase 2 isoform X3 [Coturnix japonica],,,None found
+>XP_015724074.1 glucose-6-phosphatase 2 isoform X2 [Coturnix japonica],,,None found
+>XP_015724073.1 glucose-6-phosphatase 2 isoform X1 [Coturnix japonica],,,None found
+">KAF1671963.1 Glucose-6-phosphatase, partial [Pygoscelis papua]",139,142,AMIDATION
+">KAF1671963.1 Glucose-6-phosphatase, partial [Pygoscelis papua]",,,None found
+">KAF1664939.1 Glucose-6-phosphatase 2, partial [Aptenodytes patagonicus]",,,None found
+">KAF1663616.1 Glucose-6-phosphatase, partial [Aptenodytes patagonicus]",139,142,AMIDATION
+">KAF1663616.1 Glucose-6-phosphatase, partial [Aptenodytes patagonicus]",,,None found
+">KAF1642821.1 Glucose-6-phosphatase, partial [Eudyptes chrysocome]",139,142,AMIDATION
+">KAF1642821.1 Glucose-6-phosphatase, partial [Eudyptes chrysocome]",,,None found
+">KAF1641317.1 Glucose-6-phosphatase 2, partial [Eudyptes chrysocome]",,,None found
+">KAF1634598.1 Glucose-6-phosphatase 2, partial [Eudyptes filholi]",,,None found
+">KAF1627266.1 Glucose-6-phosphatase, partial [Eudyptes filholi]",139,142,AMIDATION
+">KAF1627266.1 Glucose-6-phosphatase, partial [Eudyptes filholi]",,,None found
+">KAF1613280.1 Glucose-6-phosphatase 2, partial [Eudyptes chrysolophus]",,,None found
+">KAF1604860.1 Glucose-6-phosphatase, partial [Eudyptes chrysolophus]",139,142,AMIDATION
+">KAF1604860.1 Glucose-6-phosphatase, partial [Eudyptes chrysolophus]",,,None found
+">KAF1599534.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase 2, partial [Eudyptes pachyrhynchus]",,,None found
+">KAF1588750.1 Glucose-6-phosphatase 3, partial [Eudyptes moseleyi]",,,None found
+">KAF1588749.1 Glucose-6-phosphatase 3, partial [Eudyptes moseleyi]",,,None found
+">KAF1587281.1 Glucose-6-phosphatase 2, partial [Eudyptes moseleyi]",,,None found
+">KAF1584371.1 Glucose-6-phosphatase, partial [Eudyptes moseleyi]",139,142,AMIDATION
+">KAF1584371.1 Glucose-6-phosphatase, partial [Eudyptes moseleyi]",,,None found
+">KAF1578265.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase, partial [Eudyptes robustus]",139,142,AMIDATION
+">KAF1578265.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase, partial [Eudyptes robustus]",,,None found
+">KAF1576510.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase 2, partial [Eudyptes robustus]",,,None found
+">KAF1574651.1 Glucose-6-phosphatase 3, partial [Eudyptes pachyrhynchus]",,,None found
+">KAF1564213.1 Glucose-6-phosphatase 2, partial [Eudyptes schlegeli]",,,None found
+">KAF1561075.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase, partial [Eudyptes pachyrhynchus]",139,142,AMIDATION
+">KAF1561075.1 UNVERIFIED_CONTAM: Glucose-6-phosphatase, partial [Eudyptes pachyrhynchus]",,,None found
+">KAF1559300.1 Glucose-6-phosphatase 2, partial [Eudyptula minor]",,,None found
+">KAF1558758.1 Glucose-6-phosphatase 3, partial [Eudyptes schlegeli]",,,None found
+">KAF1548696.1 Glucose-6-phosphatase, partial [Eudyptula albosignata]",139,142,AMIDATION
+">KAF1548696.1 Glucose-6-phosphatase, partial [Eudyptula albosignata]",,,None found
+">KAF1546409.1 Glucose-6-phosphatase, partial [Eudyptula minor]",139,142,AMIDATION
+">KAF1546409.1 Glucose-6-phosphatase, partial [Eudyptula minor]",,,None found
+">KAF1545783.1 Glucose-6-phosphatase 2, partial [Eudyptula albosignata]",,,None found
+">KAF1524284.1 Glucose-6-phosphatase, partial [Eudyptes sclateri]",139,142,AMIDATION
+">KAF1524284.1 Glucose-6-phosphatase, partial [Eudyptes sclateri]",,,None found
+">KAF1516079.1 Glucose-6-phosphatase 2, partial [Eudyptes sclateri]",,,None found
+">KAF1506142.1 Glucose-6-phosphatase 2, partial [Megadyptes antipodes antipodes]",,,None found
+">KAF1498621.1 Glucose-6-phosphatase 2, partial [Eudyptula minor novaehollandiae]",,,None found
+">KAF1488921.1 Glucose-6-phosphatase, partial [Eudyptula minor novaehollandiae]",139,142,AMIDATION
+">KAF1488921.1 Glucose-6-phosphatase, partial [Eudyptula minor novaehollandiae]",,,None found
+">KAF1487788.1 Glucose-6-phosphatase, partial [Pygoscelis antarcticus]",139,142,AMIDATION
+">KAF1487788.1 Glucose-6-phosphatase, partial [Pygoscelis antarcticus]",,,None found
+">KAF1473286.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",139,142,AMIDATION
+">KAF1473286.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",,,None found
+">KAF1471003.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",139,142,AMIDATION
+">KAF1471003.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",,,None found
+">KAF1466645.1 Glucose-6-phosphatase 2, partial [Spheniscus demersus]",,,None found
+">KAF1464176.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",139,142,AMIDATION
+">KAF1464176.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",,,None found
+">KAF1464082.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",139,142,AMIDATION
+">KAF1464082.1 Glucose-6-phosphatase, partial [Megadyptes antipodes antipodes]",,,None found
+">KAF1462438.1 Glucose-6-phosphatase 2, partial [Pygoscelis antarcticus]",,,None found
+">KAF1459431.1 Glucose-6-phosphatase, partial [Spheniscus mendiculus]",139,142,AMIDATION
+">KAF1459431.1 Glucose-6-phosphatase, partial [Spheniscus mendiculus]",,,None found
+">KAF1451858.1 Glucose-6-phosphatase 2, partial [Pygoscelis papua]",,,None found
+">KAF1440782.1 Glucose-6-phosphatase, partial [Spheniscus demersus]",139,142,AMIDATION
+">KAF1440782.1 Glucose-6-phosphatase, partial [Spheniscus demersus]",,,None found
+">KAF1432837.1 Glucose-6-phosphatase, partial [Spheniscus magellanicus]",139,142,AMIDATION
+">KAF1432837.1 Glucose-6-phosphatase, partial [Spheniscus magellanicus]",,,None found
+">KAF1432752.1 Glucose-6-phosphatase 3, partial [Spheniscus magellanicus]",,,None found
+">KAF1431069.1 Glucose-6-phosphatase 2, partial [Spheniscus mendiculus]",,,None found
+">KAF1411270.1 Glucose-6-phosphatase 2, partial [Spheniscus magellanicus]",,,None found
+">KAF1404242.1 Glucose-6-phosphatase, partial [Spheniscus humboldti]",139,142,AMIDATION
+">KAF1404242.1 Glucose-6-phosphatase, partial [Spheniscus humboldti]",,,None found
+">KAF1398049.1 Glucose-6-phosphatase 2, partial [Spheniscus humboldti]",,,None found
+">KAF1396094.1 Glucose-6-phosphatase 3, partial [Spheniscus humboldti]",,,None found
+>XP_032046542.1 glucose-6-phosphatase 2 isoform X2 [Aythya fuligula],,,None found
+>XP_032046541.1 glucose-6-phosphatase 2 isoform X1 [Aythya fuligula],,,None found
+>XP_032058755.1 glucose-6-phosphatase isoform X2 [Aythya fuligula],139,142,AMIDATION
+>XP_032058755.1 glucose-6-phosphatase isoform X2 [Aythya fuligula],,,None found
+>XP_032058754.1 glucose-6-phosphatase isoform X1 [Aythya fuligula],139,142,AMIDATION
+>XP_032058754.1 glucose-6-phosphatase isoform X1 [Aythya fuligula],,,None found
+>XP_031990407.1 glucose-6-phosphatase [Corvus moneduloides],139,142,AMIDATION
+>XP_031990407.1 glucose-6-phosphatase [Corvus moneduloides],,,None found
+>XP_031990275.1 glucose-6-phosphatase 3 [Corvus moneduloides],,,None found
+>XP_031970667.1 glucose-6-phosphatase 2 [Corvus moneduloides],,,None found
+>XP_019472711.1 glucose-6-phosphatase 2 isoform X2 [Meleagris gallopavo],,,None found
+>XP_019478895.1 glucose-6-phosphatase [Meleagris gallopavo],1,4,AMIDATION
+>XP_019478895.1 glucose-6-phosphatase [Meleagris gallopavo],,,None found
+">XP_010726181.1 glucose-6-phosphatase 3, partial [Meleagris gallopavo]",,,None found
+>XP_010712010.1 glucose-6-phosphatase 2 isoform X3 [Meleagris gallopavo],,,None found
+>XP_003207632.1 glucose-6-phosphatase 2 isoform X1 [Meleagris gallopavo],,,None found
+>XP_031456721.1 glucose-6-phosphatase 3 [Phasianus colchicus],,,None found
+>XP_031456720.1 glucose-6-phosphatase 3 [Phasianus colchicus],,,None found
+>XP_031456719.1 glucose-6-phosphatase 3 [Phasianus colchicus],,,None found
+>XP_031456423.1 glucose-6-phosphatase [Phasianus colchicus],213,216,AMIDATION
+>XP_031456423.1 glucose-6-phosphatase [Phasianus colchicus],,,None found
+>XP_031455386.1 glucose-6-phosphatase 2 isoform X3 [Phasianus colchicus],,,None found
+>XP_031455384.1 glucose-6-phosphatase 2 isoform X2 [Phasianus colchicus],,,None found
+>XP_031455383.1 glucose-6-phosphatase 2 isoform X1 [Phasianus colchicus],,,None found
+>XP_031455382.1 glucose-6-phosphatase 2 isoform X1 [Phasianus colchicus],,,None found
+>XP_030921395.1 glucose-6-phosphatase 3 [Geospiza fortis],,,None found
+>XP_030913350.1 glucose-6-phosphatase 2 isoform X1 [Geospiza fortis],,,None found
+>XP_005429668.1 glucose-6-phosphatase [Geospiza fortis],,,None found
+>XP_005415893.1 glucose-6-phosphatase 2 isoform X2 [Geospiza fortis],,,None found
+>XP_005415892.1 glucose-6-phosphatase 2 isoform X2 [Geospiza fortis],,,None found
+>XP_030808354.1 glucose-6-phosphatase 2 isoform X2 [Camarhynchus parvulus],,,None found
+>XP_030808353.1 glucose-6-phosphatase 2 isoform X1 [Camarhynchus parvulus],,,None found
+>XP_030822287.1 glucose-6-phosphatase 3 isoform X3 [Camarhynchus parvulus],,,None found
+>XP_030822286.1 glucose-6-phosphatase 3 isoform X2 [Camarhynchus parvulus],,,None found
+>XP_030822285.1 glucose-6-phosphatase 3 isoform X1 [Camarhynchus parvulus],,,None found
+>XP_030822190.1 glucose-6-phosphatase [Camarhynchus parvulus],,,None found
+>XP_030309886.1 glucose-6-phosphatase 2 isoform X1 [Calypte anna],,,None found
+>XP_030321679.1 glucose-6-phosphatase [Calypte anna],139,142,AMIDATION
+>XP_030321679.1 glucose-6-phosphatase [Calypte anna],,,None found
+>XP_008503927.1 glucose-6-phosphatase [Calypte anna],139,142,AMIDATION
+>XP_008503927.1 glucose-6-phosphatase [Calypte anna],,,None found
+>XP_008503354.1 glucose-6-phosphatase 2 isoform X2 [Calypte anna],,,None found
+>XP_029819317.1 glucose-6-phosphatase 3 isoform X2 [Manacus vitellinus],279,282,AMIDATION
+>XP_029819317.1 glucose-6-phosphatase 3 isoform X2 [Manacus vitellinus],,,None found
+>XP_029819316.1 glucose-6-phosphatase 3 isoform X1 [Manacus vitellinus],,,None found
+>XP_008922173.2 glucose-6-phosphatase [Manacus vitellinus],139,142,AMIDATION
+>XP_008922173.2 glucose-6-phosphatase [Manacus vitellinus],,,None found
+>XP_008929256.1 glucose-6-phosphatase 2 [Manacus vitellinus],,,None found
+">XP_010161100.2 glucose-6-phosphatase 3, partial [Antrostomus carolinensis]",,,None found
+>XP_010166327.1 glucose-6-phosphatase 2 isoform X2 [Antrostomus carolinensis],,,None found
+>XP_010166326.1 glucose-6-phosphatase 2 isoform X1 [Antrostomus carolinensis],,,None found
+>XP_027761383.1 glucose-6-phosphatase 3 isoform X3 [Empidonax traillii],,,None found
+>XP_027761382.1 glucose-6-phosphatase 3 isoform X2 [Empidonax traillii],,,None found
+>XP_027761381.1 glucose-6-phosphatase 3 isoform X1 [Empidonax traillii],,,None found
+>XP_027751872.1 glucose-6-phosphatase [Empidonax traillii],139,142,AMIDATION
+>XP_027751872.1 glucose-6-phosphatase [Empidonax traillii],,,None found
+>XP_027767323.1 glucose-6-phosphatase 2 isoform X2 [Empidonax traillii],,,None found
+>XP_027767322.1 glucose-6-phosphatase 2 isoform X2 [Empidonax traillii],,,None found
+>XP_027767321.1 glucose-6-phosphatase 2 isoform X1 [Empidonax traillii],,,None found
+>XP_027524670.1 LOW QUALITY PROTEIN: glucose-6-phosphatase 3 [Corapipo altera],,,None found
+>XP_027520533.1 glucose-6-phosphatase [Corapipo altera],139,142,AMIDATION
+>XP_027520533.1 glucose-6-phosphatase [Corapipo altera],,,None found
+>XP_027492660.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492659.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492658.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492657.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492656.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492655.1 glucose-6-phosphatase 2 isoform X4 [Corapipo altera],,,None found
+>XP_027492653.1 glucose-6-phosphatase 2 isoform X3 [Corapipo altera],,,None found
+>XP_027492652.1 glucose-6-phosphatase 2 isoform X2 [Corapipo altera],,,None found
+>XP_027492651.1 glucose-6-phosphatase 2 isoform X2 [Corapipo altera],,,None found
+>XP_027492650.1 glucose-6-phosphatase 2 isoform X2 [Corapipo altera],,,None found
+>XP_027492649.1 glucose-6-phosphatase 2 isoform X1 [Corapipo altera],,,None found
+>XP_027529463.1 glucose-6-phosphatase 3-like isoform X2 [Neopelma chrysocephalum],,,None found
+>XP_027529462.1 glucose-6-phosphatase 3-like isoform X1 [Neopelma chrysocephalum],,,None found
+>XP_027529459.1 glucose-6-phosphatase 3-like isoform X2 [Neopelma chrysocephalum],,,None found
+>XP_027529458.1 glucose-6-phosphatase 3-like isoform X1 [Neopelma chrysocephalum],,,None found
+>XP_027558020.1 glucose-6-phosphatase [Neopelma chrysocephalum],139,142,AMIDATION
+>XP_027558020.1 glucose-6-phosphatase [Neopelma chrysocephalum],,,None found
+>XP_027534469.1 glucose-6-phosphatase 2 isoform X4 [Neopelma chrysocephalum],,,None found
+>XP_027534468.1 glucose-6-phosphatase 2 isoform X4 [Neopelma chrysocephalum],,,None found
+>XP_027534467.1 glucose-6-phosphatase 2 isoform X4 [Neopelma chrysocephalum],,,None found
+>XP_027534466.1 glucose-6-phosphatase 2 isoform X4 [Neopelma chrysocephalum],,,None found
+>XP_027534465.1 glucose-6-phosphatase 2 isoform X4 [Neopelma chrysocephalum],,,None found
+>XP_027534464.1 glucose-6-phosphatase 2 isoform X3 [Neopelma chrysocephalum],,,None found
+>XP_027534463.1 glucose-6-phosphatase 2 isoform X2 [Neopelma chrysocephalum],,,None found
+>XP_027534461.1 glucose-6-phosphatase 2 isoform X2 [Neopelma chrysocephalum],,,None found
+>XP_027534460.1 glucose-6-phosphatase 2 isoform X1 [Neopelma chrysocephalum],,,None found
+>XP_026722925.1 glucose-6-phosphatase 3 [Athene cunicularia],,,None found
+>XP_026708510.1 glucose-6-phosphatase 2 isoform X2 [Athene cunicularia],,,None found
+>XP_026708509.1 glucose-6-phosphatase 2 isoform X2 [Athene cunicularia],,,None found
+>XP_026708508.1 glucose-6-phosphatase 2 isoform X1 [Athene cunicularia],,,None found
+>XP_026720573.1 glucose-6-phosphatase [Athene cunicularia],348,351,AMIDATION
+>XP_026720573.1 glucose-6-phosphatase [Athene cunicularia],200,203,AMIDATION
+>XP_026720573.1 glucose-6-phosphatase [Athene cunicularia],,,None found
+>XP_026653465.1 glucose-6-phosphatase isoform X2 [Zonotrichia albicollis],,,None found
+>XP_026647527.1 glucose-6-phosphatase 2 isoform X2 [Zonotrichia albicollis],,,None found
+>XP_005494410.2 glucose-6-phosphatase isoform X1 [Zonotrichia albicollis],,,None found
+>XP_014120598.1 glucose-6-phosphatase 2 isoform X1 [Zonotrichia albicollis],,,None found
+>XP_025940325.1 glucose-6-phosphatase 2 isoform X2 [Apteryx rowi],,,None found
+>XP_025940324.1 glucose-6-phosphatase 2 isoform X1 [Apteryx rowi],,,None found
+>XP_025927105.1 glucose-6-phosphatase isoform X3 [Apteryx rowi],351,354,AMIDATION
+>XP_025927105.1 glucose-6-phosphatase isoform X3 [Apteryx rowi],,,None found
+>XP_025927104.1 glucose-6-phosphatase isoform X2 [Apteryx rowi],350,353,AMIDATION
+>XP_025927104.1 glucose-6-phosphatase isoform X2 [Apteryx rowi],,,None found
+>XP_025927103.1 glucose-6-phosphatase isoform X1 [Apteryx rowi],359,362,AMIDATION
+>XP_025927103.1 glucose-6-phosphatase isoform X1 [Apteryx rowi],,,None found
+>XP_025913028.1 glucose-6-phosphatase 3 [Apteryx rowi],,,None found
+>XP_025900367.1 glucose-6-phosphatase [Nothoprocta perdicaria],,,None found
+>XP_025897197.1 glucose-6-phosphatase 3 [Nothoprocta perdicaria],,,None found
+>XP_025890785.1 glucose-6-phosphatase 2 isoform X2 [Nothoprocta perdicaria],,,None found
+>XP_025890777.1 glucose-6-phosphatase 2 isoform X1 [Nothoprocta perdicaria],,,None found
+>XP_023798483.1 glucose-6-phosphatase [Cyanistes caeruleus],,,None found
+>XP_023798411.1 glucose-6-phosphatase 3 [Cyanistes caeruleus],,,None found
+>XP_023786824.1 glucose-6-phosphatase 2 isoform X5 [Cyanistes caeruleus],,,None found
+>XP_023786823.1 glucose-6-phosphatase 2 isoform X4 [Cyanistes caeruleus],,,None found
+>XP_023786822.1 glucose-6-phosphatase 2 isoform X3 [Cyanistes caeruleus],,,None found
+>XP_023786821.1 glucose-6-phosphatase 2 isoform X2 [Cyanistes caeruleus],,,None found
+>XP_023786820.1 glucose-6-phosphatase 2 isoform X1 [Cyanistes caeruleus],,,None found
+>PKU41280.1 glucose-6-phosphatase [Limosa lapponica baueri],289,292,AMIDATION
+>PKU41280.1 glucose-6-phosphatase [Limosa lapponica baueri],139,142,AMIDATION
+>PKU41280.1 glucose-6-phosphatase [Limosa lapponica baueri],,,None found
+>PKU29328.1 glucose-6-phosphatase 3 [Limosa lapponica baueri],,,None found
+">PKK29471.1 glucose-6-phosphatase, catalytic, 2, transcript variant X3 [Columba livia]",,,None found
+">PKK29470.1 glucose-6-phosphatase, catalytic, 2, transcript variant X1 [Columba livia]",,,None found
+">PKK29469.1 glucose-6-phosphatase, catalytic, 2, transcript variant X2 [Columba livia]",,,None found
+">PKK18877.1 glucose-6-phosphatase, catalytic subunit [Columba livia]",139,142,AMIDATION
+">PKK18877.1 glucose-6-phosphatase, catalytic subunit [Columba livia]",,,None found
+>OXB76840.1 UNVERIFIED_CONTAM: hypothetical protein H355_002533 [Colinus virginianus],,,None found
+>OXB71109.1 UNVERIFIED_CONTAM: hypothetical protein H355_015882 [Colinus virginianus],139,142,AMIDATION
+>OXB71109.1 UNVERIFIED_CONTAM: hypothetical protein H355_015882 [Colinus virginianus],,,None found
+">OXB69276.1 hypothetical protein ASZ78_011396, partial [Callipepla squamata]",,,None found
+>OXB55961.1 hypothetical protein ASZ78_011406 [Callipepla squamata],,,None found
+>OXB55281.1 hypothetical protein ASZ78_014075 [Callipepla squamata],139,142,AMIDATION
+>OXB55281.1 hypothetical protein ASZ78_014075 [Callipepla squamata],,,None found
+">OXB51075.1 UNVERIFIED_CONTAM: hypothetical protein H355_010725, partial [Colinus virginianus]",,,None found
+>OWK54800.1 Glucose-6-phosphatase [Lonchura striata],,,None found
+>OWK54235.1 Glucose-6-phosphatase 2 [Lonchura striata],,,None found
+>OWK53154.1 Glucose-6-phosphatase 3 [Lonchura striata],,,None found
+>XP_021254210.1 glucose-6-phosphatase 2 isoform X3 [Numida meleagris],,,None found
+>XP_021254209.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254208.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254207.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254206.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254205.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254204.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254203.1 glucose-6-phosphatase 2 isoform X2 [Numida meleagris],,,None found
+>XP_021254202.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021254201.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021254200.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021254199.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021254198.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021254197.1 glucose-6-phosphatase 2 isoform X1 [Numida meleagris],,,None found
+>XP_021233644.1 glucose-6-phosphatase [Numida meleagris],213,216,AMIDATION
+>XP_021233644.1 glucose-6-phosphatase [Numida meleagris],67,70,AMIDATION
+>XP_021233644.1 glucose-6-phosphatase [Numida meleagris],,,None found
+>XP_021233530.1 glucose-6-phosphatase 3 [Numida meleagris],,,None found
+>XP_021233529.1 glucose-6-phosphatase 3 [Numida meleagris],,,None found
+>OPJ80014.1 glucose-6-phosphatase 2 [Patagioenas fasciata monilis],,,None found
+>OPJ74608.1 glucose-6-phosphatase 3 [Patagioenas fasciata monilis],121,131,THIOL_PROTEASE_HIS
+>OPJ74608.1 glucose-6-phosphatase 3 [Patagioenas fasciata monilis],,,None found
+>OPJ74548.1 glucose-6-phosphatase [Patagioenas fasciata monilis],139,142,AMIDATION
+>OPJ74548.1 glucose-6-phosphatase [Patagioenas fasciata monilis],,,None found
+">XP_019329220.1 PREDICTED: glucose-6-phosphatase 3, partial [Aptenodytes forsteri]",,,None found
+>XP_009273157.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Aptenodytes forsteri],,,None found
+>XP_009273156.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Aptenodytes forsteri],,,None found
+>XP_009281191.1 PREDICTED: glucose-6-phosphatase [Aptenodytes forsteri],139,142,AMIDATION
+>XP_009281191.1 PREDICTED: glucose-6-phosphatase [Aptenodytes forsteri],,,None found
+>XP_017694239.1 PREDICTED: glucose-6-phosphatase 3 isoform X3 [Lepidothrix coronata],242,245,AMIDATION
+>XP_017694239.1 PREDICTED: glucose-6-phosphatase 3 isoform X3 [Lepidothrix coronata],,,None found
+>XP_017694238.1 PREDICTED: glucose-6-phosphatase 3 isoform X2 [Lepidothrix coronata],,,None found
+>XP_017694237.1 PREDICTED: glucose-6-phosphatase 3 isoform X1 [Lepidothrix coronata],,,None found
+>XP_017689608.1 PREDICTED: glucose-6-phosphatase [Lepidothrix coronata],139,142,AMIDATION
+>XP_017689608.1 PREDICTED: glucose-6-phosphatase [Lepidothrix coronata],,,None found
+>XP_017692401.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692393.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692382.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692375.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692370.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692362.1 PREDICTED: glucose-6-phosphatase 2 isoform X5 [Lepidothrix coronata],,,None found
+>XP_017692352.1 PREDICTED: glucose-6-phosphatase 2 isoform X4 [Lepidothrix coronata],,,None found
+>XP_017692345.1 PREDICTED: glucose-6-phosphatase 2 isoform X3 [Lepidothrix coronata],,,None found
+>XP_017692336.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Lepidothrix coronata],,,None found
+>XP_017692330.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Lepidothrix coronata],,,None found
+>XP_017692321.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Lepidothrix coronata],,,None found
+>XP_017692313.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Lepidothrix coronata],,,None found
+>XP_017692307.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Lepidothrix coronata],,,None found
+>XP_017596062.1 PREDICTED: glucose-6-phosphatase 3 [Corvus brachyrhynchos],,,None found
+>XP_008633009.1 PREDICTED: glucose-6-phosphatase 2 [Corvus brachyrhynchos],,,None found
+>XP_008638823.1 PREDICTED: glucose-6-phosphatase [Corvus brachyrhynchos],139,142,AMIDATION
+>XP_008638823.1 PREDICTED: glucose-6-phosphatase [Corvus brachyrhynchos],,,None found
+>XP_016155383.1 PREDICTED: glucose-6-phosphatase 2 [Ficedula albicollis],,,None found
+>XP_005062292.1 PREDICTED: glucose-6-phosphatase 3 [Ficedula albicollis],,,None found
+>XP_005059732.1 PREDICTED: glucose-6-phosphatase [Ficedula albicollis],,,None found
+>XP_014814680.1 PREDICTED: glucose-6-phosphatase [Calidris pugnax],139,142,AMIDATION
+>XP_014814680.1 PREDICTED: glucose-6-phosphatase [Calidris pugnax],,,None found
+>XP_014814458.1 PREDICTED: glucose-6-phosphatase 3 [Calidris pugnax],,,None found
+>XP_014814457.1 PREDICTED: glucose-6-phosphatase 3 [Calidris pugnax],,,None found
+>XP_014809976.1 PREDICTED: glucose-6-phosphatase 2 isoform X4 [Calidris pugnax],,,None found
+>XP_014809975.1 PREDICTED: glucose-6-phosphatase 2 isoform X3 [Calidris pugnax],,,None found
+>XP_014809974.1 PREDICTED: glucose-6-phosphatase 2 isoform X3 [Calidris pugnax],,,None found
+>XP_014809973.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Calidris pugnax],,,None found
+>XP_014809971.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Calidris pugnax],,,None found
+>XP_014746402.1 PREDICTED: glucose-6-phosphatase 2 isoform X3 [Sturnus vulgaris],,,None found
+>XP_014746401.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Sturnus vulgaris],,,None found
+>XP_014746400.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Sturnus vulgaris],,,None found
+>XP_014744950.1 PREDICTED: glucose-6-phosphatase 3 [Sturnus vulgaris],,,None found
+>XP_014740911.1 PREDICTED: glucose-6-phosphatase [Sturnus vulgaris],139,142,AMIDATION
+>XP_014740911.1 PREDICTED: glucose-6-phosphatase [Sturnus vulgaris],,,None found
+>KQK96072.1 glucose-6-phosphatase 2 [Amazona aestiva],,,None found
+>KQK79067.1 glucose-6-phosphatase [Amazona aestiva],139,142,AMIDATION
+>KQK79067.1 glucose-6-phosphatase [Amazona aestiva],,,None found
+>XP_014116497.1 PREDICTED: glucose-6-phosphatase 3 [Pseudopodoces humilis],,,None found
+>XP_005531541.2 PREDICTED: glucose-6-phosphatase [Pseudopodoces humilis],,,None found
+>XP_014104747.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Pseudopodoces humilis],,,None found
+>XP_005519827.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Pseudopodoces humilis],,,None found
+>XP_009323685.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Pygoscelis adeliae],,,None found
+>XP_009323684.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Pygoscelis adeliae],,,None found
+>XP_009324864.1 PREDICTED: glucose-6-phosphatase [Pygoscelis adeliae],139,142,AMIDATION
+>XP_009324864.1 PREDICTED: glucose-6-phosphatase [Pygoscelis adeliae],,,None found
+>XP_010571445.1 PREDICTED: glucose-6-phosphatase 3 [Haliaeetus leucocephalus],,,None found
+>XP_010583936.1 PREDICTED: glucose-6-phosphatase [Haliaeetus leucocephalus],139,142,AMIDATION
+>XP_010583936.1 PREDICTED: glucose-6-phosphatase [Haliaeetus leucocephalus],,,None found
+>XP_010565519.1 PREDICTED: glucose-6-phosphatase 2 [Haliaeetus leucocephalus],,,None found
+>XP_010296583.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Balearica regulorum gibbericeps],,,None found
+>XP_010296582.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Balearica regulorum gibbericeps],,,None found
+>XP_010292464.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Phaethon lepturus],,,None found
+>XP_010292463.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Phaethon lepturus],,,None found
+">XP_010289684.1 PREDICTED: glucose-6-phosphatase 3, partial [Phaethon lepturus]",,,None found
+>XP_010295685.1 PREDICTED: glucose-6-phosphatase [Phaethon lepturus],199,202,AMIDATION
+>XP_010295685.1 PREDICTED: glucose-6-phosphatase [Phaethon lepturus],,,None found
+">KFP39394.1 Glucose-6-phosphatase 2, partial [Chlamydotis macqueenii]",,,None found
+>XP_010219033.1 PREDICTED: glucose-6-phosphatase 2 [Tinamus guttatus],,,None found
+>XP_010128977.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Chlamydotis macqueenii],,,None found
+>XP_010128976.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Chlamydotis macqueenii],,,None found
+>XP_010190172.1 PREDICTED: glucose-6-phosphatase 2 [Mesitornis unicolor],,,None found
+>XP_010187293.1 PREDICTED: glucose-6-phosphatase [Mesitornis unicolor],139,142,AMIDATION
+>XP_010187293.1 PREDICTED: glucose-6-phosphatase [Mesitornis unicolor],,,None found
+>XP_010071769.1 PREDICTED: glucose-6-phosphatase 2 [Pterocles gutturalis],,,None found
+>XP_010153808.1 PREDICTED: glucose-6-phosphatase 2 [Eurypyga helias],,,None found
+">KFO08849.1 Glucose-6-phosphatase 2, partial [Balearica regulorum gibbericeps]",,,None found
+>XP_010141530.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Buceros rhinoceros silvestris],,,None found
+>XP_010141529.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Buceros rhinoceros silvestris],,,None found
+>XP_009994423.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Chaetura pelagica],,,None found
+>XP_009994422.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Chaetura pelagica],,,None found
+>XP_009992428.1 PREDICTED: glucose-6-phosphatase isoform X2 [Chaetura pelagica],139,142,AMIDATION
+>XP_009992428.1 PREDICTED: glucose-6-phosphatase isoform X2 [Chaetura pelagica],,,None found
+>XP_009992427.1 PREDICTED: glucose-6-phosphatase isoform X1 [Chaetura pelagica],,,None found
+>XP_009992703.1 PREDICTED: glucose-6-phosphatase 3 [Chaetura pelagica],,,None found
+>XP_009982315.1 PREDICTED: glucose-6-phosphatase [Tauraco erythrolophus],139,142,AMIDATION
+>XP_009982315.1 PREDICTED: glucose-6-phosphatase [Tauraco erythrolophus],,,None found
+>XP_009982095.1 PREDICTED: glucose-6-phosphatase 2 [Tauraco erythrolophus],,,None found
+>XP_010015573.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Nestor notabilis],,,None found
+>XP_010015572.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Nestor notabilis],,,None found
+>XP_009957478.1 PREDICTED: glucose-6-phosphatase isoform X2 [Leptosomus discolor],139,142,AMIDATION
+>XP_009957478.1 PREDICTED: glucose-6-phosphatase isoform X2 [Leptosomus discolor],,,None found
+>XP_009957477.1 PREDICTED: glucose-6-phosphatase isoform X1 [Leptosomus discolor],139,142,AMIDATION
+>XP_009957477.1 PREDICTED: glucose-6-phosphatase isoform X1 [Leptosomus discolor],,,None found
+>XP_009947588.1 PREDICTED: glucose-6-phosphatase 2 [Leptosomus discolor],,,None found
+>XP_009932372.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Opisthocomus hoazin],,,None found
+>XP_009932371.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Opisthocomus hoazin],,,None found
+>XP_009943063.1 PREDICTED: glucose-6-phosphatase [Opisthocomus hoazin],142,145,AMIDATION
+>XP_009943063.1 PREDICTED: glucose-6-phosphatase [Opisthocomus hoazin],,,None found
+>XP_009892881.1 PREDICTED: glucose-6-phosphatase 2 [Charadrius vociferus],,,None found
+>XP_009892089.1 PREDICTED: glucose-6-phosphatase [Charadrius vociferus],139,142,AMIDATION
+>XP_009892089.1 PREDICTED: glucose-6-phosphatase [Charadrius vociferus],,,None found
+>XP_009870532.1 PREDICTED: glucose-6-phosphatase [Apaloderma vittatum],143,146,AMIDATION
+>XP_009870532.1 PREDICTED: glucose-6-phosphatase [Apaloderma vittatum],,,None found
+>XP_009864927.1 PREDICTED: glucose-6-phosphatase 2 [Apaloderma vittatum],,,None found
+>XP_009704520.1 PREDICTED: glucose-6-phosphatase 2 [Cariama cristata],,,None found
+">KGL87621.1 Glucose-6-phosphatase 2, partial [Charadrius vociferus]",,,None found
+">KGL85810.1 Glucose-6-phosphatase, partial [Charadrius vociferus]",136,139,AMIDATION
+">KGL85810.1 Glucose-6-phosphatase, partial [Charadrius vociferus]",,,None found
+>KGL73137.1 Glucose-6-phosphatase 2 [Tinamus guttatus],,,None found
+>XP_009580239.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Fulmarus glacialis],,,None found
+>XP_009580238.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Fulmarus glacialis],,,None found
+>XP_009462955.1 PREDICTED: glucose-6-phosphatase 3 [Nipponia nippon],,,None found
+>XP_009460302.1 PREDICTED: glucose-6-phosphatase 2 [Nipponia nippon],,,None found
+>XP_009460192.1 PREDICTED: glucose-6-phosphatase [Nipponia nippon],192,195,AMIDATION
+>XP_009460192.1 PREDICTED: glucose-6-phosphatase [Nipponia nippon],,,None found
+">XP_009477158.1 PREDICTED: glucose-6-phosphatase 2-like, partial [Pelecanus crispus]",,,None found
+>XP_009475897.1 PREDICTED: glucose-6-phosphatase 2-like [Pelecanus crispus],,,None found
+">KFZ68785.1 Glucose-6-phosphatase, partial [Podiceps cristatus]",135,138,AMIDATION
+">KFZ68785.1 Glucose-6-phosphatase, partial [Podiceps cristatus]",,,None found
+">KFZ68656.1 Glucose-6-phosphatase 2, partial [Podiceps cristatus]",,,None found
+">KFZ58317.1 Glucose-6-phosphatase 2, partial [Antrostomus carolinensis]",,,None found
+">KFW94933.1 Glucose-6-phosphatase 2, partial [Phalacrocorax carbo]",,,None found
+">KFW86859.1 Glucose-6-phosphatase 2, partial [Manacus vitellinus]",,,None found
+">KFW81030.1 Glucose-6-phosphatase, partial [Manacus vitellinus]",136,139,AMIDATION
+">KFW81030.1 Glucose-6-phosphatase, partial [Manacus vitellinus]",,,None found
+">KFW68062.1 Glucose-6-phosphatase 2, partial [Pygoscelis adeliae]",,,None found
+">KFW61438.1 Glucose-6-phosphatase, partial [Pygoscelis adeliae]",139,142,AMIDATION
+">KFW61438.1 Glucose-6-phosphatase, partial [Pygoscelis adeliae]",,,None found
+">KFW08882.1 Glucose-6-phosphatase 2, partial [Eurypyga helias]",,,None found
+">KFW08655.1 Glucose-6-phosphatase 2, partial [Fulmarus glacialis]",,,None found
+>KFV72451.1 Glucose-6-phosphatase 2 [Struthio camelus australis],,,None found
+">KFV59430.1 Glucose-6-phosphatase 2, partial [Tyto alba]",,,None found
+">KFV54932.1 Glucose-6-phosphatase, partial [Gavia stellata]",132,135,AMIDATION
+">KFV54932.1 Glucose-6-phosphatase, partial [Gavia stellata]",,,None found
+">KFV49522.1 Glucose-6-phosphatase 2, partial [Gavia stellata]",,,None found
+">KFV16020.1 Glucose-6-phosphatase, partial [Tauraco erythrolophus]",136,139,AMIDATION
+">KFV16020.1 Glucose-6-phosphatase, partial [Tauraco erythrolophus]",,,None found
+">KFV15777.1 Glucose-6-phosphatase 2, partial [Tauraco erythrolophus]",,,None found
+">KFU97790.1 Glucose-6-phosphatase 2, partial [Pterocles gutturalis]",,,None found
+">KFU88538.1 Glucose-6-phosphatase 2, partial [Chaetura pelagica]",,,None found
+">KFU87009.1 Glucose-6-phosphatase, partial [Chaetura pelagica]",136,139,AMIDATION
+">KFU87009.1 Glucose-6-phosphatase, partial [Chaetura pelagica]",,,None found
+>XP_009079850.1 PREDICTED: glucose-6-phosphatase [Acanthisitta chloris],139,142,AMIDATION
+>XP_009079850.1 PREDICTED: glucose-6-phosphatase [Acanthisitta chloris],,,None found
+>XP_009074405.1 PREDICTED: glucose-6-phosphatase 2 isoform X2 [Acanthisitta chloris],,,None found
+>XP_009074404.1 PREDICTED: glucose-6-phosphatase 2 isoform X1 [Acanthisitta chloris],,,None found
+">XP_009083291.1 PREDICTED: glucose-6-phosphatase 3, partial [Acanthisitta chloris]",,,None found
+>KFR10284.1 Glucose-6-phosphatase 2 [Opisthocomus hoazin],,,None found
+">KFR03283.1 Glucose-6-phosphatase, partial [Opisthocomus hoazin]",127,130,AMIDATION
+">KFR03283.1 Glucose-6-phosphatase, partial [Opisthocomus hoazin]",,,None found
+">KFQ94624.1 Glucose-6-phosphatase 2, partial [Nipponia nippon]",,,None found
+">KFQ94573.1 Glucose-6-phosphatase, partial [Nipponia nippon]",136,139,AMIDATION
+">KFQ94573.1 Glucose-6-phosphatase, partial [Nipponia nippon]",,,None found
+">KFQ72950.1 Glucose-6-phosphatase 2, partial [Phoenicopterus ruber ruber]",,,None found
+">KFQ70770.1 Glucose-6-phosphatase, partial [Phaethon lepturus]",136,139,AMIDATION
+">KFQ70770.1 Glucose-6-phosphatase, partial [Phaethon lepturus]",,,None found
+">KFQ68605.1 Glucose-6-phosphatase 2, partial [Phaethon lepturus]",,,None found
+">KFQ59304.1 Glucose-6-phosphatase 2, partial [Pelecanus crispus]",,,None found
+>KFQ52123.1 Glucose-6-phosphatase 2 [Nestor notabilis],,,None found
+">KFQ40403.1 Glucose-6-phosphatase 2, partial [Mesitornis unicolor]",,,None found
+">KFQ38853.1 Glucose-6-phosphatase, partial [Mesitornis unicolor]",135,138,AMIDATION
+">KFQ38853.1 Glucose-6-phosphatase, partial [Mesitornis unicolor]",,,None found
+">KFQ28029.1 Glucose-6-phosphatase, partial [Merops nubicus]",136,139,AMIDATION
+">KFQ28029.1 Glucose-6-phosphatase, partial [Merops nubicus]",,,None found
+">KFQ17684.1 Glucose-6-phosphatase 2, partial [Merops nubicus]",,,None found
+">KFQ16131.1 Glucose-6-phosphatase, partial [Leptosomus discolor]",136,139,AMIDATION
+">KFQ16131.1 Glucose-6-phosphatase, partial [Leptosomus discolor]",,,None found
+">KFQ09461.1 Glucose-6-phosphatase 2, partial [Leptosomus discolor]",,,None found
+">KFP95178.1 Glucose-6-phosphatase 2, partial [Haliaeetus albicilla]",,,None found
+">KFP87454.1 Glucose-6-phosphatase, partial [Acanthisitta chloris]",136,139,AMIDATION
+">KFP87454.1 Glucose-6-phosphatase, partial [Acanthisitta chloris]",,,None found
+">KFP86181.1 Glucose-6-phosphatase 2, partial [Apaloderma vittatum]",,,None found
+">KFP81490.1 Glucose-6-phosphatase 2, partial [Acanthisitta chloris]",,,None found
+">KFP68021.1 Glucose-6-phosphatase 2, partial [Cariama cristata]",,,None found
+">KFP53203.1 Glucose-6-phosphatase 2, partial [Cathartes aura]",,,None found
+">KFP31615.1 Glucose-6-phosphatase 2, partial [Colius striatus]",217,233,TNF_1
+">KFP31615.1 Glucose-6-phosphatase 2, partial [Colius striatus]",,,None found
+">KFP28446.1 Glucose-6-phosphatase, partial [Colius striatus]",136,139,AMIDATION
+">KFP28446.1 Glucose-6-phosphatase, partial [Colius striatus]",,,None found
+">KFP17552.1 Glucose-6-phosphatase 2, partial [Egretta garzetta]",,,None found
+">KFP08967.1 Glucose-6-phosphatase, partial [Egretta garzetta]",136,139,AMIDATION
+">KFP08967.1 Glucose-6-phosphatase, partial [Egretta garzetta]",,,None found
+">KFO97556.1 Glucose-6-phosphatase, partial [Calypte anna]",136,139,AMIDATION
+">KFO97556.1 Glucose-6-phosphatase, partial [Calypte anna]",,,None found
+">KFO97090.1 Glucose-6-phosphatase 2, partial [Calypte anna]",,,None found
+">KFO94160.1 Glucose-6-phosphatase 2, partial [Buceros rhinoceros silvestris]",,,None found
+">KFO72216.1 Glucose-6-phosphatase 2, partial [Cuculus canorus]",,,None found
+">KFO72113.1 Glucose-6-phosphatase, partial [Cuculus canorus]",136,139,AMIDATION
+">KFO72113.1 Glucose-6-phosphatase, partial [Cuculus canorus]",,,None found
+">KFO71351.1 Glucose-6-phosphatase 3, partial [Cuculus canorus]",,,None found
+">KFO59999.1 Glucose-6-phosphatase 2, partial [Corvus brachyrhynchos]",,,None found
+">KFO52652.1 Glucose-6-phosphatase, partial [Corvus brachyrhynchos]",136,139,AMIDATION
+">KFO52652.1 Glucose-6-phosphatase, partial [Corvus brachyrhynchos]",,,None found
+">KFV71115.1 Glucose-6-phosphatase 2, partial [Dryobates pubescens]",217,233,TNF_1
+">KFV71115.1 Glucose-6-phosphatase 2, partial [Dryobates pubescens]",,,None found
+">KFV67652.1 Glucose-6-phosphatase, partial [Dryobates pubescens]",136,139,AMIDATION
+">KFV67652.1 Glucose-6-phosphatase, partial [Dryobates pubescens]",,,None found
+>XP_008936739.1 PREDICTED: glucose-6-phosphatase [Merops nubicus],139,142,AMIDATION
+>XP_008936739.1 PREDICTED: glucose-6-phosphatase [Merops nubicus],,,None found
+>XP_008934238.1 PREDICTED: glucose-6-phosphatase 2 [Merops nubicus],,,None found
+">KFM04568.1 Glucose-6-phosphatase 2, partial [Aptenodytes forsteri]",,,None found
+">KFM01312.1 Glucose-6-phosphatase, partial [Aptenodytes forsteri]",139,142,AMIDATION
+">KFM01312.1 Glucose-6-phosphatase, partial [Aptenodytes forsteri]",,,None found

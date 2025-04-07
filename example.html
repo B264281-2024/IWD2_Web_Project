@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example Data</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<nav class="navbar">
+		<div class="navbar__container">
+			<a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
+      <ul class="navbar__menu">
+        <li class="navbar__item">
+          <a href="example.html" class="navbar__links">Example Data</a>
+        </li>
+        <li class="navbar__item">
+          <a href="help.html" class="navbar__links">Help</a>
+        </li>
+        <li class="navbar__item">
+          <a href="credits.html" class="navbar__links">Statement of Credits</a>
+        </li>
+        <li class="navbar__btn">
+          <a href="/" class="button">Account</a>
+        </li>
+      </ul>
+		</div>
+   </nav>
+
+    <div class="content">
+        
+        <h2>Protein Sequence Data</h2>
+        <iframe src="example_fasta.php"></iframe>
+        
+        <h2>Clustalo Sequence Alignment</h2>
+        <iframe src="example_analysis/aligned.aln"></iframe>
+
+        <h2>PlotCon Conservation Plot</h2>
+        <img src="example_analysis/plotcon.1.png" alt="Conservation Plot">
+        
+        <h2>Motif Analysis Results</h2>
+        <label for="filter-motifs">Filter sequences with motifs:</label>
+        <input type="checkbox" id="filter-motifs" onclick="filterTable()">
+        <div id="csv-table-container">Loading...</div>
+
+        <script>
+          async function loadCSV() {
+            const timestamp = new Date().getTime();
+            const response = await fetch('example_motifs_clean_v2.csv?timestamp=');
+            const data = await response.text();
+
+            const rows = data.split('\n').filter(row => row.trim() !== '');
+            const table = document.createElement('table');
+            table.border = 1;
+            table.className = 'csv-table';
+
+            // Add table headers
+            const header = rows[0].split(',');
+            const thead = document.createElement('thead');
+            const tr = document.createElement('tr');
+            header.forEach((colName) => {
+              const th = document.createElement('th');
+              th.textContent = colName;
+              tr.appendChild(th);
+            });
+            thead.appendChild(tr);
+            table.appendChild(thead);
+
+            // Add table rows
+            const tbody = document.createElement('tbody');
+            rows.slice(1).forEach((row, i) => {
+              const tr = document.createElement('tr');
+              const cells = row.split(',');
+              cells.forEach(cell => {
+                const td = document.createElement('td');
+                td.textContent = cell;
+                tr.appendChild(td);
+              });
+              tbody.appendChild(tr);
+            });
+            table.appendChild(tbody);
+
+            // Append table to the container
+            const container = document.getElementById('csv-table-container');
+            container.innerHTML = '';  // Clear previous content
+            container.appendChild(table);
+          }
+
+          // Filter table to show only rows where Motif is not "None found"
+          function filterTable() {
+            const filterChecked = document.getElementById('filter-motifs').checked;
+            const rows = document.querySelectorAll('.csv-table tbody tr');
+            rows.forEach(row => {
+              const motifCell = row.cells[3]; // Assuming "Motif" is in the 4th column (index 3)
+              const motifValue = motifCell.textContent.trim();
+              if (filterChecked && motifValue === "None found") {
+                row.style.display = 'none';  // Hide the row if motif is "None found"
+              } else {
+                row.style.display = '';  // Show the row if motif is found
+              }
+            });
+          }
+
+          loadCSV();  // Load the CSV when the page loads
+        </script>
+
+    </div>
+</body>
+</html>

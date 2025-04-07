@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	      content="width=device-width, initial-scale=1.0">
+	<title>IWD2 ICA</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<nav class="navbar">
+		<div class="navbar__container">
+			<a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
+      <ul class="navbar__menu">
+        <li class="navbar__item">
+          <a href="example.html" class="navbar__links">Example Data</a>
+        </li>
+        <li class="navbar__item">
+          <a href="help.html" class="navbar__links">Help</a>
+        </li>
+        <li class="navbar__item">
+          <a href="credits.html" class="navbar__links">Statement of Credits</a>
+        </li>
+        <li class="navbar__btn">
+          <a href="/" class="button">Account</a>
+        </li>
+      </ul>
+		</div>
+   </nav>
+   
+   <div class="container">
+       <h1>Search for Protein Data</h1>
+
+      <form id="ncbiForm">
+        <label for="protein_family">Protein Family:</label>
+        <input type="text" id="protein_family" name="protein_family" required><br><br>
+
+        <label for="taxonomic_group">Taxonomic Group:</label>
+        <input type="text" id="taxonomic_group" name="taxonomic_group" required><br><br>
+     
+        <button type="submit" id="submit">Submit</button><br><br>
+
+      </form>
+   
+     <div id="results"></div>
+     <div id="analysisResults"></div>
+   </div>
+   
+   <script src="script.js"></script>
+</body>
+</html>
+
