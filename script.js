@@ -52,8 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 headers: { 'Content-Type': 'application/json' }
             });
 
-            const analysisData = await response.json();
+            // Debugging: Log the raw response text
+            const responseText = await response.text();  // Get raw response text to inspect any errors
+            console.log("Raw Response Text:", responseText);
 
+            // Try parsing manually to handle any errors
+            const analysisData = JSON.parse(responseText);
+
+            // Check if response is valid
             if (analysisData.success) {
                 // Display alignment results
                 const alignmentHtml = `
@@ -63,21 +69,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
 
-                // Display Plotcon image with cache-busting
-                const imageUrl = analysisData.plotcon_image.includes('://') 
-                    ? analysisData.plotcon_image 
-                    : `${window.location.origin}/${analysisData.plotcon_image.replace(/^\//, '')}`;
+                // Handle the plotcon image
+                const imageUrl = `${window.location.origin}/${analysisData.plotcon_image}`;
+
                 
                 const conservationHtml = `
                     <h3>Conservation Plot:</h3>
                     <div class="image-container">
-                        <img src="${analysisData.plotcon_image}?t=${Date.now()}" 
+                        <img src="${imageUrl}?t=${Date.now()}" 
                              alt="Conservation Plot" 
                              class="plot-image"
                              onerror="this.onerror=null;this.src='fallback.png'">
                     </div>
                 `;
 
+                // Combine both alignment and plotcon result
                 analysisResultsDiv.innerHTML = alignmentHtml + conservationHtml;
             } else {
                 throw new Error(analysisData.error || "Analysis failed");

@@ -10,7 +10,7 @@ try {
         throw new Exception('User not logged in.');
     }
 
-    //pull query data from the the PHP input
+    //pull query data from the form input
     $data = json_decode(file_get_contents('php://input'), true);
     $taxonomicGroup = $data['taxonomic_group'] ?? '';
     $proteinFamily = $data['protein_family'] ?? '';
