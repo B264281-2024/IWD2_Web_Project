@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+/* ===== Navbar Styles ===== */
 .navbar {
     background: #738678;
     height: 80px;
@@ -55,17 +56,16 @@
 .navbar__item {
     display: flex;
     align-items: center; /* Vertically align items */
-    /* height: 80px; Remove fixed height */
 }
 
 .navbar__links {
-    color: #f1e8ca; /* Updated text color */
+    color: #f1e8ca;
     display: flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
     padding: 0 1rem;
-    height: 100%; /* Ensure links take up full height */
+    height: 100%;
 }
 
 .navbar__btn {
@@ -73,7 +73,6 @@
     justify-content: center;
     align-items: center;
     padding: 0 1rem;
-    /* width: 100% Adjust as needed */
 }
 
 .button {
@@ -97,6 +96,7 @@
   overflow: auto;
 }
 
+/* ===== Fasta outputs ===== */
 .fasta-header {
   font-weight: bold;
   color: #006400;
@@ -109,7 +109,7 @@
   word-wrap: break-word;
 }
 
-
+/* ===== Embedding ===== */
 iframe {
   width: 100%;
   height: 400px;
@@ -122,6 +122,7 @@ img {
   display: block;
 }
 
+/* ===== Analysis loading icon ===== */
 .loading-spinner {
   border: 4px solid #f3f3f3;
   border-top: 4px solid #3498db;
@@ -138,7 +139,7 @@ img {
   100% { transform: rotate(360deg); }
 }
 
-
+/* ===== Fixing lists in Statement of Credits ===== */
 .content ul,
 .content ol {
     margin-left: 20px;
@@ -146,6 +147,7 @@ img {
     list-style-type: disc;
 }
 
+/* ===== Example motif analysis table ===== */
 .csv-table {
   width: 100%;
   border-collapse: collapse;
@@ -164,7 +166,7 @@ img {
   font-weight: bold;
 }
 
-/* General table styling */
+/* ===== User-Defined motif analysis table ===== */
 .container .styled-table {
     width: 100%;
     border-collapse: collapse;
@@ -180,14 +182,12 @@ img {
     border: 1px solid #ddd;
 }
 
-/* Header styling */
 .container .styled-table th {
     background-color: #4CAF50;
     color: white;
     font-weight: bold;
 }
 
-/* Zebra striping for rows */
 .container .styled-table tr:nth-child(even) {
     background-color: #f2f2f2;
 }
@@ -196,13 +196,12 @@ img {
     background-color: #ddd;
 }
 
-/* Add some padding around the table */
+/* ===== General styling ===== */
 .container {
     margin: 20px;
     padding: 20px;
 }
 
-/* Link styling */
 a {
     color: #4CAF50;
     text-decoration: none;
@@ -210,4 +209,26 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.container h1, h2, h3 {
+  color: #394a3d;
+  margin-bottom: 15px;
+}
+
+.container button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #9ebd9e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.container button:hover {
+  background-color: #82a882;
 }

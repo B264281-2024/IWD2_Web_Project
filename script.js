@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const analysisResultsDiv = document.getElementById('analysisResults');
     let fastaText = ''; // Declare globally to use in motif analysis
 
+    // Function to fetch fasta sequences through process_query.php which has esearch and efetch functionality
     async function fetchFastaSequences() {
         try {
             const response = await fetch('process_query.php', {
@@ -33,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
 
-                // Download Button
+                // Download Button for downloading Fasta data
                 const downloadBtn = document.createElement('button');
                 downloadBtn.textContent = 'Download FASTA';
                 downloadBtn.classList.add('download-button');
@@ -52,14 +53,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 resultsDiv.appendChild(downloadBtn);
 
-                // Clustal Analysis Button
+                // Clustal Analysis Button for alignments
                 const analysisButton = document.createElement('button');
                 analysisButton.id = 'analyseBtn';
                 analysisButton.textContent = 'Run Sequence Analysis';
                 analysisButton.addEventListener('click', runClustalAnalysis);
                 resultsDiv.appendChild(analysisButton);
 
-                // ?? Motif Analysis Button
+                // Motif Analysis Button for posting to motif_analysis.php
                 const motifButton = document.createElement('button');
                 motifButton.id = 'motifBtn';
                 motifButton.textContent = 'Run Motif Analysis';
@@ -88,6 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Function to run alignment via run_analysis.php script and displaying data
     async function runClustalAnalysis() {
         try {
             analysisResultsDiv.innerHTML = '<p>Running analysis... <span class="loading-spinner"></span></p>';

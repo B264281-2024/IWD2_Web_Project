@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'config.php'; // Uses centralized DB connection
+require_once 'config.php';
 
 // Redirect if not logged in
 if (!isset($_SESSION['user_id'])) {
@@ -10,7 +10,7 @@ if (!isset($_SESSION['user_id'])) {
 
 $user_id = $_SESSION['user_id'];
 
-// Fetch user search history
+// Fetch user search history from MySQL
 $stmt = $pdo->prepare("SELECT protein_family, taxonomic_group, query_date, fasta_header FROM search_queries WHERE user_id = :user_id ORDER BY query_date DESC");
 $stmt->execute(['user_id' => $user_id]);
 $queries = $stmt->fetchAll(PDO::FETCH_ASSOC);
@@ -24,6 +24,7 @@ $queries = $stmt->fetchAll(PDO::FETCH_ASSOC);
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Navigation Bar -->
   <nav class="navbar">
     <div class="navbar__container">
       <a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
@@ -36,6 +37,7 @@ $queries = $stmt->fetchAll(PDO::FETCH_ASSOC);
     </div>
   </nav>
 
+  <!-- table of all fasta sequences searched for by this user -->
   <div class="content">
     <h2>Welcome, <?php echo htmlspecialchars($_SESSION['forename'] . ' ' . $_SESSION['surname']); ?>!</h2><br>
     

@@ -10,7 +10,7 @@ seq=""
 header=""
 
 while read -r line; do
-    # If line starts with '>', it's a header
+    # Header lines
     if [[ "$line" =~ ^\> ]]; then
         # If we already have a sequence from the previous entry, process it
         if [[ -n "$seq" && -n "$header" ]]; then
@@ -43,7 +43,7 @@ while read -r line; do
     fi
 done < "$INPUT_FASTA"
 
-# Don't forget to process the last entry
+# Process the last entry
 if [[ -n "$seq" && -n "$header" ]]; then
     temp_fasta=$(mktemp /tmp/seqXXXX.fasta)
     echo "$header" > "$temp_fasta"

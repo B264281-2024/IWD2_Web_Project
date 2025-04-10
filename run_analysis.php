@@ -5,7 +5,7 @@ session_start();
 require_once 'config.php';
 
 try {
-    // Ensure user is logged in
+    //ensure user is logged in
     if (!isset($_SESSION['user_id'])) {
         throw new Exception('User not logged in.');
     }

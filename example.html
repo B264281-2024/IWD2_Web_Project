@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Navigation Bar -->
   <nav class="navbar">
     <div class="navbar__container">
       <a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
@@ -27,6 +28,7 @@
     </div>
   </nav>
 
+  <!-- All pre-processed data is shown here -->
   <div class="content">
 
     <h2>Protein Sequence Data</h2>
@@ -48,7 +50,7 @@
     <input type="checkbox" id="filter-motifs" onclick="filterTable()">
     <div id="csv-table-container">Loading...</div>
 
-    <!-- JavaScript -->
+    <!-- JavaScript for displaying CSV data -->
     <script>
       // Load and display CSV table
       async function loadCSV() {

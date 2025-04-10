@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- index.html: Main landing page with protein search form -->
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport"
@@ -8,6 +10,7 @@
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Navigation Bar -->
 	<nav class="navbar">
 		<div class="navbar__container">
 			<a href="index.html" id="navbar__logo">User-Defined Protein Search</a>
@@ -28,6 +31,7 @@
 		</div>
    </nav>
    
+   <!-- Protein Search Form -->
    <div class="container">
        <h1>Search for Protein Data</h1>
 
@@ -42,12 +46,15 @@
 
       </form>
    
+     <!-- Fasta sequences appear here -->
      <div id="results"></div>
 
      <textarea id="fastaData" name="fastaData" style="display:none;"></textarea>
-
+      
+     <!-- Option to run motif analysis on separate page -->
 		 <button id="runMotif" style="display:none;" onclick="submitMotifAnalysis()">Run Motif Analysis</button>
    
+     <!-- Conservation analysis appears here -->
      <div id="analysisResults"></div>
    </div>
    

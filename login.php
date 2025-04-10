@@ -50,6 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['forename']) && isset(
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Simple login form for first name and last name -->
   <div class="login-container", id="loginForm">
     <h2>Login</h2>
     <form action="" method="post" id="loginForm">
