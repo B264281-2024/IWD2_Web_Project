@@ -1,0 +1,45 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Thu 10 Apr 2025 14:25:21
+# Commandline: patmatmotifs
+#    -sequence /localdisk/home/s2760053/public_html/Website/tmp/motif_53fad1a8a8dd1d4678f63fb8c4db689c/seq_12.fasta
+#    -outfile /localdisk/home/s2760053/public_html/Website/tmp/motif_53fad1a8a8dd1d4678f63fb8c4db689c/results/seq_12
+#    -auto
+# Report_format: dbmotif
+# Report_file: /localdisk/home/s2760053/public_html/Website/tmp/motif_53fad1a8a8dd1d4678f63fb8c4db689c/results/seq_12
+########################################
+
+#=======================================
+#
+# Sequence: KYO38547.1     from: 1   to: 79
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 19
+Start = position 8 of sequence
+End = position 26 of sequence
+
+Motif = CKS_1
+
+HKQIYYSDKYDDEEFEYRHVMLPKDIAKL
+     |                 |
+     8                 26
+
+Length = 11
+Start = position 60 of sequence
+End = position 70 of sequence
+
+Motif = CKS_2
+
+VHYMIHEPEPHILLFRRPLPK
+     |         |
+    60         70
+
+
+#---------------------------------------
+#---------------------------------------

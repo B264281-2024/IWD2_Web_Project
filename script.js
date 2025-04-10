@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const resultsDiv = document.getElementById('results');
     const analysisResultsDiv = document.getElementById('analysisResults');
+    let fastaText = ''; // Declare globally to use in motif analysis
 
     async function fetchFastaSequences() {
         try {
@@ -17,9 +18,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (fastaData.success && Array.isArray(fastaData.sequences) && fastaData.sequences.length > 0) {
                 let formattedSequences = '';
+                fastaText = ''; // Reset before rebuilding
+
                 fastaData.sequences.forEach(sequence => {
                     formattedSequences += `<div class="fasta-header">>${sequence.header}</div>`;
                     formattedSequences += `<div class="fasta-sequence">${sequence.sequence}</div>`;
+                    fastaText += `>${sequence.header}\n${sequence.sequence}\n`;
                 });
 
                 resultsDiv.innerHTML = `
@@ -28,39 +32,53 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${formattedSequences}
                     </div>
                 `;
-                
-                let fastaText = '';
-                fastaData.sequences.forEach(sequence => {
-                  fastaText += `>${sequence.header}\n${sequence.sequence}\n`;
-                });
 
-                // Create the download button
+                // Download Button
                 const downloadBtn = document.createElement('button');
                 downloadBtn.textContent = 'Download FASTA';
-                downloadBtn.classList.add('download-button'); // optional for styling
+                downloadBtn.classList.add('download-button');
 
-                // Create a blob from the FASTA content
                 const blob = new Blob([fastaText], { type: 'text/plain' });
                 const url = URL.createObjectURL(blob);
 
-                // Create a download link and trigger it
                 downloadBtn.addEventListener('click', () => {
-                  const a = document.createElement('a');
-                  a.href = url;
-                  a.download = 'sequences.fasta';
-                  document.body.appendChild(a);
-                  a.click();
-                  document.body.removeChild(a);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = 'sequences.fasta';
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
                 });
 
                 resultsDiv.appendChild(downloadBtn);
 
-
+                // Clustal Analysis Button
                 const analysisButton = document.createElement('button');
                 analysisButton.id = 'analyseBtn';
                 analysisButton.textContent = 'Run Sequence Analysis';
                 analysisButton.addEventListener('click', runClustalAnalysis);
                 resultsDiv.appendChild(analysisButton);
+
+                // ?? Motif Analysis Button
+                const motifButton = document.createElement('button');
+                motifButton.id = 'motifBtn';
+                motifButton.textContent = 'Run Motif Analysis';
+                motifButton.addEventListener('click', () => {
+                    const form = document.createElement('form');
+                    form.method = 'POST';
+                    form.action = 'motif_analysis.php';
+
+                    const input = document.createElement('input');
+                    input.type = 'hidden';
+                    input.name = 'fasta_data';
+                    input.value = fastaText;
+                    form.appendChild(input);
+
+                    document.body.appendChild(form);
+                    form.submit();
+                });
+                resultsDiv.appendChild(motifButton);
+
             } else {
                 resultsDiv.innerHTML = `<p>${fastaData.error || "No sequences found."}</p>`;
             }
@@ -73,22 +91,17 @@ document.addEventListener('DOMContentLoaded', () => {
     async function runClustalAnalysis() {
         try {
             analysisResultsDiv.innerHTML = '<p>Running analysis... <span class="loading-spinner"></span></p>';
-            
+
             const response = await fetch('run_analysis.php', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' }
             });
 
-            // Debugging: Log the raw response text
-            const responseText = await response.text();  // Get raw response text to inspect any errors
+            const responseText = await response.text();
             console.log("Raw Response Text:", responseText);
-
-            // Try parsing manually to handle any errors
             const analysisData = JSON.parse(responseText);
 
-            // Check if response is valid
             if (analysisData.success) {
-                // Display alignment results
                 const alignmentHtml = `
                     <h3>Alignment Results:</h3>
                     <div class="result-container">
@@ -96,10 +109,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
 
-                // Handle the plotcon image
                 const imageUrl = `${window.location.origin}/${analysisData.plotcon_image}`;
 
-                
                 const conservationHtml = `
                     <h3>Conservation Plot:</h3>
                     <div class="image-container">
@@ -110,7 +121,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
 
-                // Combine both alignment and plotcon result
                 analysisResultsDiv.innerHTML = alignmentHtml + conservationHtml;
             } else {
                 throw new Error(analysisData.error || "Analysis failed");
@@ -121,7 +131,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Form submission handler
     document.getElementById('ncbiForm').addEventListener('submit', async (e) => {
         e.preventDefault();
         resultsDiv.innerHTML = '<p>Fetching sequences... <span class="loading-spinner"></span></p>';
