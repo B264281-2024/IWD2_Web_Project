@@ -32,10 +32,10 @@
        <h1>Search for Protein Data</h1>
 
       <form id="ncbiForm">
-        <label for="protein_family">Protein Family:</label>
+        <label for="protein_family">Protein Family: <span title="e.g. 'kinase', 'zinc finger'">?</span></label>
         <input type="text" id="protein_family" name="protein_family" required><br><br>
 
-        <label for="taxonomic_group">Taxonomic Group:</label>
+        <label for="taxonomic_group">Taxonomic Group: <span title="e.g. 'mammals', 'reptiles'">?</span></label>
         <input type="text" id="taxonomic_group" name="taxonomic_group" required><br><br>
      
         <button type="submit" id="submit">Submit</button><br><br>
@@ -43,6 +43,11 @@
       </form>
    
      <div id="results"></div>
+
+     <textarea id="fastaData" name="fastaData" style="display:none;"></textarea>
+
+		 <button id="runMotif" style="display:none;" onclick="submitMotifAnalysis()">Run Motif Analysis</button>
+   
      <div id="analysisResults"></div>
    </div>
    

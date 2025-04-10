@@ -28,6 +28,33 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${formattedSequences}
                     </div>
                 `;
+                
+                let fastaText = '';
+                fastaData.sequences.forEach(sequence => {
+                  fastaText += `>${sequence.header}\n${sequence.sequence}\n`;
+                });
+
+                // Create the download button
+                const downloadBtn = document.createElement('button');
+                downloadBtn.textContent = 'Download FASTA';
+                downloadBtn.classList.add('download-button'); // optional for styling
+
+                // Create a blob from the FASTA content
+                const blob = new Blob([fastaText], { type: 'text/plain' });
+                const url = URL.createObjectURL(blob);
+
+                // Create a download link and trigger it
+                downloadBtn.addEventListener('click', () => {
+                  const a = document.createElement('a');
+                  a.href = url;
+                  a.download = 'sequences.fasta';
+                  document.body.appendChild(a);
+                  a.click();
+                  document.body.removeChild(a);
+                });
+
+                resultsDiv.appendChild(downloadBtn);
+
 
                 const analysisButton = document.createElement('button');
                 analysisButton.id = 'analyseBtn';
@@ -97,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Form submission handler
     document.getElementById('ncbiForm').addEventListener('submit', async (e) => {
         e.preventDefault();
-        resultsDiv.innerHTML = '<p>Fetching sequences...</p>';
+        resultsDiv.innerHTML = '<p>Fetching sequences... <span class="loading-spinner"></span></p>';
         await fetchFastaSequences();
     });
 });
